@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44033b2f-df7f-4f88-b50f-65af344138b2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scripts/Controllers/MapController.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/Controllers/MapController.cs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -68,15 +69,15 @@
       <file leaf-file-name="MapController.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/MapController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            <state relative-caret-position="416">
+              <caret line="28" column="12" lean-forward="false" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
               <folding>
-                <marker date="1502450990000" expanded="false" signature="6:54" ph="..." />
-                <marker date="1502450990000" expanded="true" signature="77:736" ph="{...}" />
-                <marker date="1502450990000" expanded="true" signature="126:734" ph="{...}" />
-                <marker date="1502450990000" expanded="true" signature="178:422" ph="/* private MapDatastore _mapDatastore; ... */" />
-                <marker date="1502450990000" expanded="true" signature="452:728" ph="{...}" />
-                <marker date="1502450990000" expanded="true" signature="551:621" ph="{...}" />
+                <marker date="1502451111000" expanded="false" signature="6:54" ph="..." />
+                <marker date="1502451111000" expanded="true" signature="77:654" ph="{...}" />
+                <marker date="1502451111000" expanded="true" signature="126:652" ph="{...}" />
+                <marker date="1502451111000" expanded="true" signature="178:422" ph="/* private MapDatastore _mapDatastore; ... */" />
+                <marker date="1502451111000" expanded="true" signature="452:646" ph="{...}" />
+                <marker date="1502451111000" expanded="true" signature="551:621" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -86,7 +87,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/FogOfWarController.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="64">
-              <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
+              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
               <folding>
                 <marker date="1502398059000" expanded="true" signature="41:1130" ph="{...}" />
                 <marker date="1502398059000" expanded="true" signature="184:1128" ph="{...}" />
@@ -334,12 +335,12 @@
       <updated>1502310283961</updated>
       <workItem from="1502310286580" duration="4680000" />
       <workItem from="1502359707554" duration="12685000" />
-      <workItem from="1502450810546" duration="187000" />
+      <workItem from="1502450810546" duration="257000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17552000" />
+    <option name="totallyTimeSpent" value="17622000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -493,12 +494,12 @@
         <state relative-caret-position="464">
           <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
           <folding>
-            <marker date="1502450990000" expanded="false" signature="6:54" ph="..." />
-            <marker date="1502450990000" expanded="true" signature="77:736" ph="{...}" />
-            <marker date="1502450990000" expanded="true" signature="126:734" ph="{...}" />
-            <marker date="1502450990000" expanded="true" signature="178:422" ph="/* private MapDatastore _mapDatastore; ... */" />
-            <marker date="1502450990000" expanded="true" signature="452:728" ph="{...}" />
-            <marker date="1502450990000" expanded="true" signature="551:621" ph="{...}" />
+            <marker date="1502451111000" expanded="false" signature="6:54" ph="..." />
+            <marker date="1502451111000" expanded="true" signature="77:654" ph="{...}" />
+            <marker date="1502451111000" expanded="true" signature="126:652" ph="{...}" />
+            <marker date="1502451111000" expanded="true" signature="178:422" ph="/* private MapDatastore _mapDatastore; ... */" />
+            <marker date="1502451111000" expanded="true" signature="452:646" ph="{...}" />
+            <marker date="1502451111000" expanded="true" signature="551:621" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -554,12 +555,12 @@
         <state relative-caret-position="208">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding>
-            <marker date="1502450990000" expanded="false" signature="6:54" ph="..." />
-            <marker date="1502450990000" expanded="true" signature="77:736" ph="{...}" />
-            <marker date="1502450990000" expanded="true" signature="126:734" ph="{...}" />
-            <marker date="1502450990000" expanded="true" signature="178:422" ph="/* private MapDatastore _mapDatastore; ... */" />
-            <marker date="1502450990000" expanded="true" signature="452:728" ph="{...}" />
-            <marker date="1502450990000" expanded="true" signature="551:621" ph="{...}" />
+            <marker date="1502451111000" expanded="false" signature="6:54" ph="..." />
+            <marker date="1502451111000" expanded="true" signature="77:654" ph="{...}" />
+            <marker date="1502451111000" expanded="true" signature="126:652" ph="{...}" />
+            <marker date="1502451111000" expanded="true" signature="178:422" ph="/* private MapDatastore _mapDatastore; ... */" />
+            <marker date="1502451111000" expanded="true" signature="452:646" ph="{...}" />
+            <marker date="1502451111000" expanded="true" signature="551:621" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -676,7 +677,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/FogOfWarController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
-          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
           <folding>
             <marker date="1502398059000" expanded="true" signature="41:1130" ph="{...}" />
             <marker date="1502398059000" expanded="true" signature="184:1128" ph="{...}" />
@@ -689,15 +690,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/MapController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="416">
+          <caret line="28" column="12" lean-forward="false" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
           <folding>
-            <marker date="1502450990000" expanded="false" signature="6:54" ph="..." />
-            <marker date="1502450990000" expanded="true" signature="77:736" ph="{...}" />
-            <marker date="1502450990000" expanded="true" signature="126:734" ph="{...}" />
-            <marker date="1502450990000" expanded="true" signature="178:422" ph="/* private MapDatastore _mapDatastore; ... */" />
-            <marker date="1502450990000" expanded="true" signature="452:728" ph="{...}" />
-            <marker date="1502450990000" expanded="true" signature="551:621" ph="{...}" />
+            <marker date="1502451111000" expanded="false" signature="6:54" ph="..." />
+            <marker date="1502451111000" expanded="true" signature="77:654" ph="{...}" />
+            <marker date="1502451111000" expanded="true" signature="126:652" ph="{...}" />
+            <marker date="1502451111000" expanded="true" signature="178:422" ph="/* private MapDatastore _mapDatastore; ... */" />
+            <marker date="1502451111000" expanded="true" signature="452:646" ph="{...}" />
+            <marker date="1502451111000" expanded="true" signature="551:621" ph="{...}" />
           </folding>
         </state>
       </provider>

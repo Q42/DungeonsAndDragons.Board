@@ -26,9 +26,7 @@ namespace Controllers
             {
                 28, 29, 30, 31, 32, 39, 40, 41, 42, 43
             });
-
-            FogOfWar.SetParticleMesh(fogOfWarMesh, 10 * 10);
-            FogOfWar.Simulate();
+            
         }
     }
 }
