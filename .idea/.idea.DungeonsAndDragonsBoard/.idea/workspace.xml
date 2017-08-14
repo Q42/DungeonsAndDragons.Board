@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44033b2f-df7f-4f88-b50f-65af344138b2" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Prefabs.meta" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.DungeonsAndDragonsBoard/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.DungeonsAndDragonsBoard/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.meta" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs.meta" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scripts/Controllers/FogOfWarController.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/Controllers/FogOfWarController.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scripts/Controllers/MapController.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/Controllers/MapController.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scripts/Generators/GridMeshGenerator.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/Generators/GridMeshGenerator.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Shaders.meta" afterPath="$PROJECT_DIR$/Assets/Shaders.meta" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,129 +22,161 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Datastore.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Datastore.cs">
+      <file leaf-file-name="ShowFluid.shader" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/ShowFluid.shader">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="8" column="76" lean-forward="false" selection-start-line="8" selection-start-column="76" selection-end-line="8" selection-end-column="76" />
+            <state relative-caret-position="576">
+              <caret line="36" column="52" lean-forward="false" selection-start-line="36" selection-start-column="52" selection-end-line="36" selection-end-column="52" />
               <folding>
-                <marker date="1502359788000" expanded="false" signature="6:88" ph="..." />
-                <marker date="1502359788000" expanded="true" signature="112:681" ph="{...}" />
-                <marker date="1502359788000" expanded="true" signature="116:219" ph="/// Default database reference for the Dungeons and Dragons application. ... " />
-                <marker date="1502359788000" expanded="true" signature="270:399" ph="/// Constructor creating the connection to the Firebase database and getting de default reference. ... " />
-                <marker date="1502359788000" expanded="true" signature="420:679" ph="{...}" />
+                <marker date="1502737626000" expanded="true" signature="39:721" ph="{...}" />
+                <marker date="1502737626000" expanded="true" signature="53:98" ph="{...}" />
+                <marker date="1502737626000" expanded="true" signature="110:719" ph="{...}" />
+                <marker date="1502737626000" expanded="true" signature="163:716" ph="{...}" />
+                <marker date="1502737626000" expanded="true" signature="177:707" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MapDatastore.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Datastores/MapDatastore.cs">
+      <file leaf-file-name="SubtractGradient.shader" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/SubtractGradient.shader">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+            <state relative-caret-position="800">
+              <caret line="50" column="16" lean-forward="false" selection-start-line="50" selection-start-column="16" selection-end-line="58" selection-end-column="37" />
               <folding>
-                <marker date="1502359910000" expanded="false" signature="6:57" ph="..." />
-                <marker date="1502359910000" expanded="true" signature="79:1452" ph="{...}" />
-                <marker date="1502359910000" expanded="true" signature="123:1450" ph="{...}" />
-                <marker date="1502359910000" expanded="true" signature="138:274" ph="/// Subscribe to the changes in the maps object. For now this is just for testing purposes. ... " />
-                <marker date="1502359910000" expanded="true" signature="312:502" ph="{...}" />
-                <marker date="1502359910000" expanded="true" signature="520:751" ph="/// Save a new map to the Firebase database maps object. For now this is just for testing purposes.  ... " />
-                <marker date="1502359910000" expanded="true" signature="813:1053" ph="{...}" />
-                <marker date="1502359910000" expanded="true" signature="1134:1444" ph="{...}" />
-                <marker date="1502359910000" expanded="true" signature="1185:1349" ph="{...}" />
+                <marker date="1502736277000" expanded="true" signature="46:1913" ph="{...}" />
+                <marker date="1502736277000" expanded="true" signature="60:211" ph="{...}" />
+                <marker date="1502736277000" expanded="true" signature="223:1911" ph="{...}" />
+                <marker date="1502736277000" expanded="true" signature="276:1908" ph="{...}" />
+                <marker date="1502736277000" expanded="true" signature="310:1899" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Map.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Models/Map.cs">
+      <file leaf-file-name="Fog.shader" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Fog.shader">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+            <state relative-caret-position="720">
+              <caret line="45" column="69" lean-forward="false" selection-start-line="45" selection-start-column="69" selection-end-line="45" selection-end-column="76" />
               <folding>
-                <marker date="1502359910000" expanded="true" signature="36:234" ph="{...}" />
-                <marker date="1502359910000" expanded="true" signature="57:232" ph="{...}" />
-                <marker date="1502359910000" expanded="true" signature="126:131" ph="{...}" />
-                <marker date="1502359910000" expanded="true" signature="177:226" ph="{...}" />
+                <marker date="1502738090000" expanded="true" signature="22:1020" ph="{...}" />
+                <marker date="1502738090000" expanded="true" signature="36:177" ph="{...}" />
+                <marker date="1502738090000" expanded="true" signature="189:1018" ph="{...}" />
+                <marker date="1502738090000" expanded="true" signature="268:1015" ph="{...}" />
+                <marker date="1502738090000" expanded="true" signature="337:1006" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MapController.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/MapController.cs">
+      <file leaf-file-name="Divergence.shader" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Divergence.shader">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="28" column="12" lean-forward="false" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+            <state relative-caret-position="928">
+              <caret line="58" column="31" lean-forward="false" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="34" />
               <folding>
-                <marker date="1502451111000" expanded="false" signature="6:54" ph="..." />
-                <marker date="1502451111000" expanded="true" signature="77:654" ph="{...}" />
-                <marker date="1502451111000" expanded="true" signature="126:652" ph="{...}" />
-                <marker date="1502451111000" expanded="true" signature="178:422" ph="/* private MapDatastore _mapDatastore; ... */" />
-                <marker date="1502451111000" expanded="true" signature="452:646" ph="{...}" />
-                <marker date="1502451111000" expanded="true" signature="551:621" ph="{...}" />
+                <marker date="1502736509000" expanded="true" signature="40:1822" ph="{...}" />
+                <marker date="1502736509000" expanded="true" signature="54:156" ph="{...}" />
+                <marker date="1502736509000" expanded="true" signature="168:1820" ph="{...}" />
+                <marker date="1502736509000" expanded="true" signature="221:1817" ph="{...}" />
+                <marker date="1502736509000" expanded="true" signature="255:1808" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FogOfWarController.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/FogOfWarController.cs">
+      <file leaf-file-name="Jacobi1d.shader" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Jacobi1d.shader">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
+            <state relative-caret-position="848">
+              <caret line="53" column="15" lean-forward="false" selection-start-line="53" selection-start-column="15" selection-end-line="61" selection-end-column="37" />
               <folding>
-                <marker date="1502398059000" expanded="true" signature="41:1130" ph="{...}" />
-                <marker date="1502398059000" expanded="true" signature="184:1128" ph="{...}" />
-                <marker date="1502398059000" expanded="true" signature="360:576" ph="{...}" />
-                <marker date="1502398059000" expanded="true" signature="608:708" ph="{...}" />
-                <marker date="1502398059000" expanded="true" signature="774:1122" ph="{...}" />
+                <marker date="1502737621000" expanded="true" signature="38:1859" ph="{...}" />
+                <marker date="1502737621000" expanded="true" signature="52:175" ph="{...}" />
+                <marker date="1502737621000" expanded="true" signature="187:1857" ph="{...}" />
+                <marker date="1502737621000" expanded="true" signature="240:1854" ph="{...}" />
+                <marker date="1502737621000" expanded="true" signature="274:1845" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GridMeshGenerator.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Generators/GridMeshGenerator.cs">
+      <file leaf-file-name="Impulse.shader" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Impulse.shader">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            <state relative-caret-position="560">
+              <caret line="35" column="28" lean-forward="false" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
               <folding>
-                <marker date="1502398460000" expanded="false" signature="6:32" ph="..." />
-                <marker date="1502398460000" expanded="true" signature="54:2191" ph="{...}" />
-                <marker date="1502398460000" expanded="true" signature="91:2189" ph="{...}" />
-                <marker date="1502398460000" expanded="true" signature="159:232" ph="{...}" />
-                <marker date="1502398460000" expanded="true" signature="309:600" ph="{...}" />
-                <marker date="1502398460000" expanded="true" signature="378:562" ph="{...}" />
-                <marker date="1502398460000" expanded="true" signature="673:1017" ph="{...}" />
-                <marker date="1502398460000" expanded="true" signature="803:977" ph="{...}" />
-                <marker date="1502398460000" expanded="true" signature="871:963" ph="{...}" />
-                <marker date="1502398460000" expanded="true" signature="1101:1709" ph="{...}" />
-                <marker date="1502398460000" expanded="true" signature="1234:1668" ph="{...}" />
-                <marker date="1502398460000" expanded="true" signature="1311:1654" ph="{...}" />
-                <marker date="1502398460000" expanded="true" signature="1762:2183" ph="{...}" />
-                <marker date="1502398460000" expanded="true" signature="1999:2070" ph="{...}" />
+                <marker date="1502736464000" expanded="true" signature="37:980" ph="{...}" />
+                <marker date="1502736464000" expanded="true" signature="51:55" ph="{...}" />
+                <marker date="1502736464000" expanded="true" signature="67:978" ph="{...}" />
+                <marker date="1502736464000" expanded="true" signature="120:975" ph="{...}" />
+                <marker date="1502736464000" expanded="true" signature="189:966" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CameraLocationTracker.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Camera/CameraLocationTracker.cs">
+      <file leaf-file-name="Advect.shader" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Advect.shader">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="704">
+              <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
               <folding>
-                <marker date="1488923229000" expanded="true" signature="6:150" ph="..." />
-                <marker date="1488923229000" expanded="true" signature="222:2291" ph="{...}" />
-                <marker date="1488923229000" expanded="true" signature="563:880" ph="{...}" />
-                <marker date="1488923229000" expanded="true" signature="592:784" ph="{...}" />
-                <marker date="1488923229000" expanded="true" signature="925:2289" ph="{...}" />
-                <marker date="1488923229000" expanded="true" signature="1595:2268" ph="{...}" />
-                <marker date="1488923229000" expanded="true" signature="1618:1847" ph="{...}" />
-                <marker date="1488923229000" expanded="true" signature="1710:1842" ph="{...}" />
+                <marker date="1502738111000" expanded="true" signature="36:1256" ph="{...}" />
+                <marker date="1502738111000" expanded="true" signature="50:191" ph="{...}" />
+                <marker date="1502738111000" expanded="true" signature="203:1254" ph="{...}" />
+                <marker date="1502738111000" expanded="true" signature="256:1251" ph="{...}" />
+                <marker date="1502738111000" expanded="true" signature="290:1242" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Jacobi2d.shader" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Jacobi2d.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="848">
+              <caret line="53" column="16" lean-forward="false" selection-start-line="53" selection-start-column="16" selection-end-line="61" selection-end-column="37" />
+              <folding>
+                <marker date="1502737619000" expanded="true" signature="38:1869" ph="{...}" />
+                <marker date="1502737619000" expanded="true" signature="52:175" ph="{...}" />
+                <marker date="1502737619000" expanded="true" signature="187:1867" ph="{...}" />
+                <marker date="1502737619000" expanded="true" signature="240:1864" ph="{...}" />
+                <marker date="1502737619000" expanded="true" signature="274:1855" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Obstacle.shader" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Obstacle.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1052">
+              <caret line="81" column="16" lean-forward="false" selection-start-line="81" selection-start-column="16" selection-end-line="84" selection-end-column="54" />
+              <folding>
+                <marker date="1502738083000" expanded="true" signature="38:2644" ph="{...}" />
+                <marker date="1502738083000" expanded="true" signature="52:56" ph="{...}" />
+                <marker date="1502738083000" expanded="true" signature="68:2642" ph="{...}" />
+                <marker date="1502738083000" expanded="true" signature="121:2639" ph="{...}" />
+                <marker date="1502738083000" expanded="true" signature="155:2630" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Fade.shader" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Fade.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="42" column="71" lean-forward="false" selection-start-line="42" selection-start-column="71" selection-end-line="42" selection-end-column="71" />
+              <folding>
+                <marker date="1502635778000" expanded="true" signature="34:879" ph="{...}" />
+                <marker date="1502635778000" expanded="true" signature="48:132" ph="{...}" />
+                <marker date="1502635778000" expanded="true" signature="144:877" ph="{...}" />
+                <marker date="1502635778000" expanded="true" signature="197:874" ph="{...}" />
+                <marker date="1502635778000" expanded="true" signature="231:865" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -148,7 +187,38 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>idea</find>
+      <find>m_simulating</find>
+      <find>2DFluidSim</find>
+      <find>F</find>
+      <find>Fog</find>
+      <find>FogO</find>
+      <find>FogOf</find>
+      <find>FogOfW</find>
+      <find>FogOfWar/</find>
+      <find>FluidDrawer</find>
+      <find>FogOfWar</find>
+      <find>_InverseSize</find>
+      <find>_inverse</find>
+      <find>ApplyImpulse</find>
+      <find>p1</find>
+      <find>AddSource</find>
+      <find>a</find>
+      <find>fixed4</find>
+      <find>fade</find>
+      <find>Advect</find>
+      <find>Obsta</find>
+      <find>_ObstacleTex</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>__height</replace>
+      <replace>_simulating</replace>
+      <replace>FogOfWar</replace>
+      <replace>FogOfWar/Simulation/</replace>
+      <replace>FogOfWarGenerator</replace>
+      <replace>FogOfWar/Simulation</replace>
+      <replace>p1Scaled</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -156,13 +226,28 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/a1/205d78ac/Mesh.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/MapController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Generators/GridMeshGenerator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Datastore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Generators/FogOfWarGenerator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/Map.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Obstacle.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Jacobi3d.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/ShowFluid.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/FogOfWarController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/6f/f707a004/GradientAlphaKey.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Jacobi1d.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Impulse.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Buoyancy.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Generators/GridMeshGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/SubtractGradient.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Datastore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Fade.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/2DFluidSim-master/Assets/2DFluidSim/Scripts/FluidSimulator.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Fog.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Generators/FogOfWarFluidGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/13/78591ec8/Material.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Jacobi2d.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Divergence.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Datastores/MapDatastore.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Camera/CameraLocationTracker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Advect.shader" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -174,9 +259,24 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Models/Map.cs" />
         <option value="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/a1/205d78ac/Mesh.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Camera/CameraLocationTracker.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Generators/GridMeshGenerator.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/FogOfWarController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/FogOfWar/Advect.shader" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/MapController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Generators/FogOfWarGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Generators/GridMeshGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Fade.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/FogOfWarController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/SubtractGradient.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Impulse.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Divergence.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Jacobi3d.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Jacobi2d.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Jacobi1d.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/ShowFluid.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Generators/FogOfWarFluidGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Buoyancy.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Obstacle.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/FogOfWar/Fog.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Advect.shader" />
       </list>
     </option>
   </component>
@@ -187,9 +287,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="1486" />
     <option name="y" value="22" />
-    <option name="width" value="1916" />
-    <option name="height" value="1178" />
+    <option name="width" value="1954" />
+    <option name="height" value="1418" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -206,6 +307,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <PATH>
@@ -217,17 +319,210 @@
               <option name="myItemId" value="DungeonsAndDragonsBoard (3 projects)" />
               <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp-Editor-firstpass" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shaders" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FogOfWar" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DungeonsAndDragonsBoard (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp-Editor-firstpass" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shaders" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FogOfWar" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Simulation" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DungeonsAndDragonsBoard (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp-Editor-firstpass" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DungeonsAndDragonsBoard (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp-Editor-firstpass" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DungeonsAndDragonsBoard (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DungeonsAndDragonsBoard (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DungeonsAndDragonsBoard (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Scripts" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DungeonsAndDragonsBoard (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Scripts" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Generators" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DungeonsAndDragonsBoard (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Scripts" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DungeonsAndDragonsBoard (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -335,12 +630,13 @@
       <updated>1502310283961</updated>
       <workItem from="1502310286580" duration="4680000" />
       <workItem from="1502359707554" duration="12685000" />
-      <workItem from="1502450810546" duration="257000" />
+      <workItem from="1502450810546" duration="22586000" />
+      <workItem from="1502734551326" duration="3289000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17622000" />
+    <option name="totallyTimeSpent" value="43240000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -352,7 +648,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1916" height="1178" extended-state="6" />
+    <frame x="1486" y="22" width="1954" height="1418" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -363,8 +659,9 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14979123" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16888434" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283914" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30297565" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -373,7 +670,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -390,17 +686,136 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Generators/FogOfWarGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="31" column="52" lean-forward="false" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Generators/FogOfWarFluidGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3216">
+          <caret line="205" column="21" lean-forward="false" selection-start-line="205" selection-start-column="21" selection-end-line="205" selection-end-column="21" />
+          <folding>
+            <marker date="1502737812000" expanded="false" signature="6:121" ph="..." />
+            <marker date="1502737812000" expanded="true" signature="143:12949" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="201:12947" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="309:364" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="427:483" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="546:601" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="1720:1778" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="1829:1936" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="1985:2044" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="2095:2151" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="2228:2580" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="2690:3073" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="2781:2882" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="3115:4296" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="4340:4747" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="4790:5669" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="5706:5911" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="5960:6013" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="6064:6118" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="6192:6480" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="6545:6672" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="6737:6906" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="6997:7314" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="7393:7605" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="7709:8065" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="8169:8525" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="8629:8985" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="9080:9348" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="9380:10016" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="9636:9789" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="10058:10360" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="10118:10350" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="10401:10690" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="10461:10680" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="10788:11110" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="11222:11746" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="11819:11990" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="12021:12852" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="12886:12941" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Divergence.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="60" column="45" lean-forward="false" selection-start-line="60" selection-start-column="45" selection-end-line="60" selection-end-column="45" />
+          <folding>
+            <marker date="1502736509000" expanded="true" signature="40:1822" ph="{...}" />
+            <marker date="1502736509000" expanded="true" signature="54:156" ph="{...}" />
+            <marker date="1502736509000" expanded="true" signature="168:1820" ph="{...}" />
+            <marker date="1502736509000" expanded="true" signature="221:1817" ph="{...}" />
+            <marker date="1502736509000" expanded="true" signature="255:1808" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Buoyancy.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding>
+            <marker date="1502737487000" expanded="true" signature="38:1369" ph="{...}" />
+            <marker date="1502737487000" expanded="true" signature="52:367" ph="{...}" />
+            <marker date="1502737487000" expanded="true" signature="379:1367" ph="{...}" />
+            <marker date="1502737487000" expanded="true" signature="432:1364" ph="{...}" />
+            <marker date="1502737487000" expanded="true" signature="466:1355" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Jacobi1d.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1072">
+          <caret line="67" column="44" lean-forward="false" selection-start-line="67" selection-start-column="44" selection-end-line="67" selection-end-column="45" />
+          <folding>
+            <marker date="1502737621000" expanded="true" signature="38:1859" ph="{...}" />
+            <marker date="1502737621000" expanded="true" signature="52:175" ph="{...}" />
+            <marker date="1502737621000" expanded="true" signature="187:1857" ph="{...}" />
+            <marker date="1502737621000" expanded="true" signature="240:1854" ph="{...}" />
+            <marker date="1502737621000" expanded="true" signature="274:1845" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Impulse.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="752">
+          <caret line="47" column="36" lean-forward="false" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+          <folding>
+            <marker date="1502736464000" expanded="true" signature="37:980" ph="{...}" />
+            <marker date="1502736464000" expanded="true" signature="51:55" ph="{...}" />
+            <marker date="1502736464000" expanded="true" signature="67:978" ph="{...}" />
+            <marker date="1502736464000" expanded="true" signature="120:975" ph="{...}" />
+            <marker date="1502736464000" expanded="true" signature="189:966" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Advect.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="45" column="62" lean-forward="false" selection-start-line="45" selection-start-column="62" selection-end-line="45" selection-end-column="62" />
+          <folding>
+            <marker date="1502738111000" expanded="true" signature="36:1256" ph="{...}" />
+            <marker date="1502738111000" expanded="true" signature="50:191" ph="{...}" />
+            <marker date="1502738111000" expanded="true" signature="203:1254" ph="{...}" />
+            <marker date="1502738111000" expanded="true" signature="256:1251" ph="{...}" />
+            <marker date="1502738111000" expanded="true" signature="290:1242" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Datastore.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="8" column="76" lean-forward="false" selection-start-line="8" selection-start-column="76" selection-end-line="8" selection-end-column="76" />
-          <folding>
-            <marker date="1502359788000" expanded="false" signature="6:88" ph="..." />
-            <marker date="1502359788000" expanded="true" signature="112:681" ph="{...}" />
-            <marker date="1502359788000" expanded="true" signature="116:219" ph="/// Default database reference for the Dungeons and Dragons application. ... " />
-            <marker date="1502359788000" expanded="true" signature="270:399" ph="/// Constructor creating the connection to the Firebase database and getting de default reference. ... " />
-            <marker date="1502359788000" expanded="true" signature="420:679" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -408,17 +823,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-          <folding>
-            <marker date="1502359910000" expanded="false" signature="6:57" ph="..." />
-            <marker date="1502359910000" expanded="true" signature="79:1452" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="123:1450" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="138:274" ph="/// Subscribe to the changes in the maps object. For now this is just for testing purposes. ... " />
-            <marker date="1502359910000" expanded="true" signature="312:502" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="520:751" ph="/// Save a new map to the Firebase database maps object. For now this is just for testing purposes.  ... " />
-            <marker date="1502359910000" expanded="true" signature="813:1053" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="1134:1444" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="1185:1349" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -426,12 +830,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-          <folding>
-            <marker date="1502359910000" expanded="true" signature="36:234" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="57:232" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="126:131" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="177:226" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -440,11 +838,38 @@
         <state relative-caret-position="368">
           <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
           <folding>
-            <marker date="1502398059000" expanded="true" signature="41:1130" ph="{...}" />
-            <marker date="1502398059000" expanded="true" signature="184:1128" ph="{...}" />
-            <marker date="1502398059000" expanded="true" signature="360:576" ph="{...}" />
-            <marker date="1502398059000" expanded="true" signature="608:708" ph="{...}" />
-            <marker date="1502398059000" expanded="true" signature="774:1122" ph="{...}" />
+            <marker date="1502636061000" expanded="false" signature="6:89" ph="..." />
+            <marker date="1502636061000" expanded="true" signature="112:5862" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="253:5860" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="450:752" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="516:742" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="620:728" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="886:1212" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="954:1202" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="1081:1188" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="1339:1670" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="1404:1660" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="1540:1646" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="1807:2143" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="1876:2133" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="2010:2119" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="2269:2593" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="2334:2583" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="2463:2569" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="2730:2863" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="3183:3628" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="3305:3377" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="3671:3728" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="3750:4338" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="4412:4944" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="4464:4546" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="4594:4676" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="4721:4804" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="4851:4934" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="4978:5563" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="5599:5644" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="5680:5773" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="5809:5854" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -453,54 +878,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-          <folding>
-            <marker date="1502398460000" expanded="false" signature="6:32" ph="..." />
-            <marker date="1502398460000" expanded="true" signature="54:2191" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="91:2189" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="159:232" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="309:600" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="378:562" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="673:1017" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="803:977" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="871:963" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="1101:1709" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="1234:1668" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="1311:1654" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="1762:2183" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="1999:2070" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Camera/CameraLocationTracker.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding>
-            <marker date="1488923229000" expanded="true" signature="6:150" ph="..." />
-            <marker date="1488923229000" expanded="true" signature="222:2291" ph="{...}" />
-            <marker date="1488923229000" expanded="true" signature="563:880" ph="{...}" />
-            <marker date="1488923229000" expanded="true" signature="592:784" ph="{...}" />
-            <marker date="1488923229000" expanded="true" signature="925:2289" ph="{...}" />
-            <marker date="1488923229000" expanded="true" signature="1595:2268" ph="{...}" />
-            <marker date="1488923229000" expanded="true" signature="1618:1847" ph="{...}" />
-            <marker date="1488923229000" expanded="true" signature="1710:1842" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Camera/CameraLocationTracker.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/MapController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
           <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
-          <folding>
-            <marker date="1502451111000" expanded="false" signature="6:54" ph="..." />
-            <marker date="1502451111000" expanded="true" signature="77:654" ph="{...}" />
-            <marker date="1502451111000" expanded="true" signature="126:652" ph="{...}" />
-            <marker date="1502451111000" expanded="true" signature="178:422" ph="/* private MapDatastore _mapDatastore; ... */" />
-            <marker date="1502451111000" expanded="true" signature="452:646" ph="{...}" />
-            <marker date="1502451111000" expanded="true" signature="551:621" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -508,13 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1502359788000" expanded="false" signature="6:88" ph="..." />
-            <marker date="1502359788000" expanded="true" signature="112:681" ph="{...}" />
-            <marker date="1502359788000" expanded="true" signature="116:219" ph="/// Default database reference for the Dungeons and Dragons application. ... " />
-            <marker date="1502359788000" expanded="true" signature="270:399" ph="/// Constructor creating the connection to the Firebase database and getting de default reference. ... " />
-            <marker date="1502359788000" expanded="true" signature="420:679" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -522,17 +900,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <marker date="1502359910000" expanded="false" signature="6:57" ph="..." />
-            <marker date="1502359910000" expanded="true" signature="79:1452" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="123:1450" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="138:274" ph="/// Subscribe to the changes in the maps object. For now this is just for testing purposes. ... " />
-            <marker date="1502359910000" expanded="true" signature="312:502" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="520:751" ph="/// Save a new map to the Firebase database maps object. For now this is just for testing purposes.  ... " />
-            <marker date="1502359910000" expanded="true" signature="813:1053" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="1134:1444" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="1185:1349" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -541,12 +908,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
           <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-          <folding>
-            <marker date="1502359910000" expanded="true" signature="36:234" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="57:232" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="126:131" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="177:226" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -554,14 +915,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <marker date="1502451111000" expanded="false" signature="6:54" ph="..." />
-            <marker date="1502451111000" expanded="true" signature="77:654" ph="{...}" />
-            <marker date="1502451111000" expanded="true" signature="126:652" ph="{...}" />
-            <marker date="1502451111000" expanded="true" signature="178:422" ph="/* private MapDatastore _mapDatastore; ... */" />
-            <marker date="1502451111000" expanded="true" signature="452:646" ph="{...}" />
-            <marker date="1502451111000" expanded="true" signature="551:621" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -578,13 +931,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="8" column="76" lean-forward="false" selection-start-line="8" selection-start-column="76" selection-end-line="8" selection-end-column="76" />
-          <folding>
-            <marker date="1502359788000" expanded="false" signature="6:88" ph="..." />
-            <marker date="1502359788000" expanded="true" signature="112:681" ph="{...}" />
-            <marker date="1502359788000" expanded="true" signature="116:219" ph="/// Default database reference for the Dungeons and Dragons application. ... " />
-            <marker date="1502359788000" expanded="true" signature="270:399" ph="/// Constructor creating the connection to the Firebase database and getting de default reference. ... " />
-            <marker date="1502359788000" expanded="true" signature="420:679" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -592,17 +938,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-          <folding>
-            <marker date="1502359910000" expanded="false" signature="6:57" ph="..." />
-            <marker date="1502359910000" expanded="true" signature="79:1452" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="123:1450" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="138:274" ph="/// Subscribe to the changes in the maps object. For now this is just for testing purposes. ... " />
-            <marker date="1502359910000" expanded="true" signature="312:502" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="520:751" ph="/// Save a new map to the Firebase database maps object. For now this is just for testing purposes.  ... " />
-            <marker date="1502359910000" expanded="true" signature="813:1053" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="1134:1444" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="1185:1349" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -610,12 +945,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-          <folding>
-            <marker date="1502359910000" expanded="true" signature="36:234" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="57:232" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="126:131" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="177:226" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -634,71 +963,299 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Camera/GetRes.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Generators/GridMeshGenerator.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Camera/CameraLocationTracker.cs" />
+    <entry file="file://$USER_HOME$/Downloads/2DFluidSim-master/Assets/2DFluidSim/Scripts/FluidSimulator.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-          <folding>
-            <marker date="1502398460000" expanded="false" signature="6:32" ph="..." />
-            <marker date="1502398460000" expanded="true" signature="54:2191" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="91:2189" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="159:232" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="309:600" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="378:562" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="673:1017" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="803:977" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="871:963" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="1101:1709" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="1234:1668" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="1311:1654" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="1762:2183" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="1999:2070" ph="{...}" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Camera/CameraLocationTracker.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Advect.shader" />
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Jacobi1d.shader" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/MapController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        <state relative-caret-position="448">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/DrawOpaque.shader" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/13/78591ec8/Material.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="547" column="25" lean-forward="false" selection-start-line="547" selection-start-column="16" selection-end-line="547" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Generators/GridMeshGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Generators/FogOfWarGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="31" column="52" lean-forward="false" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Generators/FogOfWarFluidGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="796">
+          <caret line="345" column="26" lean-forward="true" selection-start-line="345" selection-start-column="26" selection-end-line="345" selection-end-column="26" />
           <folding>
-            <marker date="1488923229000" expanded="true" signature="6:150" ph="..." />
-            <marker date="1488923229000" expanded="true" signature="222:2291" ph="{...}" />
-            <marker date="1488923229000" expanded="true" signature="563:880" ph="{...}" />
-            <marker date="1488923229000" expanded="true" signature="592:784" ph="{...}" />
-            <marker date="1488923229000" expanded="true" signature="925:2289" ph="{...}" />
-            <marker date="1488923229000" expanded="true" signature="1595:2268" ph="{...}" />
-            <marker date="1488923229000" expanded="true" signature="1618:1847" ph="{...}" />
-            <marker date="1488923229000" expanded="true" signature="1710:1842" ph="{...}" />
+            <marker date="1502737812000" expanded="false" signature="6:121" ph="..." />
+            <marker date="1502737812000" expanded="true" signature="143:12949" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="201:12947" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="309:364" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="427:483" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="546:601" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="1720:1778" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="1829:1936" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="1985:2044" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="2095:2151" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="2228:2580" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="2690:3073" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="2781:2882" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="3115:4296" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="4340:4747" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="4790:5669" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="5706:5911" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="5960:6013" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="6064:6118" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="6192:6480" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="6545:6672" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="6737:6906" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="6997:7314" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="7393:7605" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="7709:8065" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="8169:8525" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="8629:8985" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="9080:9348" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="9380:10016" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="9636:9789" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="10058:10360" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="10118:10350" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="10401:10690" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="10461:10680" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="10788:11110" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="11222:11746" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="11819:11990" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="12021:12852" ph="{...}" />
+            <marker date="1502737812000" expanded="true" signature="12886:12941" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/FogOfWarController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
+        <state relative-caret-position="-676">
+          <caret line="77" column="41" lean-forward="false" selection-start-line="77" selection-start-column="41" selection-end-line="77" selection-end-column="41" />
           <folding>
-            <marker date="1502398059000" expanded="true" signature="41:1130" ph="{...}" />
-            <marker date="1502398059000" expanded="true" signature="184:1128" ph="{...}" />
-            <marker date="1502398059000" expanded="true" signature="360:576" ph="{...}" />
-            <marker date="1502398059000" expanded="true" signature="608:708" ph="{...}" />
-            <marker date="1502398059000" expanded="true" signature="774:1122" ph="{...}" />
+            <marker date="1502636061000" expanded="false" signature="6:89" ph="..." />
+            <marker date="1502636061000" expanded="true" signature="112:5862" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="253:5860" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="450:752" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="516:742" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="620:728" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="886:1212" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="954:1202" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="1081:1188" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="1339:1670" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="1404:1660" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="1540:1646" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="1807:2143" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="1876:2133" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="2010:2119" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="2269:2593" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="2334:2583" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="2463:2569" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="2730:2863" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="3183:3628" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="3305:3377" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="3671:3728" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="3750:4338" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="4412:4944" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="4464:4546" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="4594:4676" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="4721:4804" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="4851:4934" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="4978:5563" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="5599:5644" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="5680:5773" ph="{...}" />
+            <marker date="1502636061000" expanded="true" signature="5809:5854" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/MapController.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Jacobi3d.shader">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="28" column="12" lean-forward="false" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+        <state relative-caret-position="0">
+          <caret line="0" column="39" lean-forward="true" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
           <folding>
-            <marker date="1502451111000" expanded="false" signature="6:54" ph="..." />
-            <marker date="1502451111000" expanded="true" signature="77:654" ph="{...}" />
-            <marker date="1502451111000" expanded="true" signature="126:652" ph="{...}" />
-            <marker date="1502451111000" expanded="true" signature="178:422" ph="/* private MapDatastore _mapDatastore; ... */" />
-            <marker date="1502451111000" expanded="true" signature="452:646" ph="{...}" />
-            <marker date="1502451111000" expanded="true" signature="551:621" ph="{...}" />
+            <marker date="1502737617000" expanded="true" signature="38:1872" ph="{...}" />
+            <marker date="1502737617000" expanded="true" signature="52:175" ph="{...}" />
+            <marker date="1502737617000" expanded="true" signature="187:1870" ph="{...}" />
+            <marker date="1502737617000" expanded="true" signature="240:1867" ph="{...}" />
+            <marker date="1502737617000" expanded="true" signature="274:1858" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Buoyancy.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding>
+            <marker date="1502737487000" expanded="true" signature="38:1369" ph="{...}" />
+            <marker date="1502737487000" expanded="true" signature="52:367" ph="{...}" />
+            <marker date="1502737487000" expanded="true" signature="379:1367" ph="{...}" />
+            <marker date="1502737487000" expanded="true" signature="432:1364" ph="{...}" />
+            <marker date="1502737487000" expanded="true" signature="466:1355" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Divergence.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="928">
+          <caret line="58" column="31" lean-forward="false" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="34" />
+          <folding>
+            <marker date="1502736509000" expanded="true" signature="40:1822" ph="{...}" />
+            <marker date="1502736509000" expanded="true" signature="54:156" ph="{...}" />
+            <marker date="1502736509000" expanded="true" signature="168:1820" ph="{...}" />
+            <marker date="1502736509000" expanded="true" signature="221:1817" ph="{...}" />
+            <marker date="1502736509000" expanded="true" signature="255:1808" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Fade.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="42" column="71" lean-forward="false" selection-start-line="42" selection-start-column="71" selection-end-line="42" selection-end-column="71" />
+          <folding>
+            <marker date="1502635778000" expanded="true" signature="34:879" ph="{...}" />
+            <marker date="1502635778000" expanded="true" signature="48:132" ph="{...}" />
+            <marker date="1502635778000" expanded="true" signature="144:877" ph="{...}" />
+            <marker date="1502635778000" expanded="true" signature="197:874" ph="{...}" />
+            <marker date="1502635778000" expanded="true" signature="231:865" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Jacobi1d.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="848">
+          <caret line="53" column="15" lean-forward="false" selection-start-line="53" selection-start-column="15" selection-end-line="61" selection-end-column="37" />
+          <folding>
+            <marker date="1502737621000" expanded="true" signature="38:1859" ph="{...}" />
+            <marker date="1502737621000" expanded="true" signature="52:175" ph="{...}" />
+            <marker date="1502737621000" expanded="true" signature="187:1857" ph="{...}" />
+            <marker date="1502737621000" expanded="true" signature="240:1854" ph="{...}" />
+            <marker date="1502737621000" expanded="true" signature="274:1845" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Impulse.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="35" column="28" lean-forward="false" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+          <folding>
+            <marker date="1502736464000" expanded="true" signature="37:980" ph="{...}" />
+            <marker date="1502736464000" expanded="true" signature="51:55" ph="{...}" />
+            <marker date="1502736464000" expanded="true" signature="67:978" ph="{...}" />
+            <marker date="1502736464000" expanded="true" signature="120:975" ph="{...}" />
+            <marker date="1502736464000" expanded="true" signature="189:966" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Jacobi2d.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="848">
+          <caret line="53" column="16" lean-forward="false" selection-start-line="53" selection-start-column="16" selection-end-line="61" selection-end-column="37" />
+          <folding>
+            <marker date="1502737619000" expanded="true" signature="38:1869" ph="{...}" />
+            <marker date="1502737619000" expanded="true" signature="52:175" ph="{...}" />
+            <marker date="1502737619000" expanded="true" signature="187:1867" ph="{...}" />
+            <marker date="1502737619000" expanded="true" signature="240:1864" ph="{...}" />
+            <marker date="1502737619000" expanded="true" signature="274:1855" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Obstacle.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1052">
+          <caret line="81" column="16" lean-forward="false" selection-start-line="81" selection-start-column="16" selection-end-line="84" selection-end-column="54" />
+          <folding>
+            <marker date="1502738083000" expanded="true" signature="38:2644" ph="{...}" />
+            <marker date="1502738083000" expanded="true" signature="52:56" ph="{...}" />
+            <marker date="1502738083000" expanded="true" signature="68:2642" ph="{...}" />
+            <marker date="1502738083000" expanded="true" signature="121:2639" ph="{...}" />
+            <marker date="1502738083000" expanded="true" signature="155:2630" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/ShowFluid.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="36" column="52" lean-forward="false" selection-start-line="36" selection-start-column="52" selection-end-line="36" selection-end-column="52" />
+          <folding>
+            <marker date="1502737626000" expanded="true" signature="39:721" ph="{...}" />
+            <marker date="1502737626000" expanded="true" signature="53:98" ph="{...}" />
+            <marker date="1502737626000" expanded="true" signature="110:719" ph="{...}" />
+            <marker date="1502737626000" expanded="true" signature="163:716" ph="{...}" />
+            <marker date="1502737626000" expanded="true" signature="177:707" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/SubtractGradient.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="50" column="16" lean-forward="false" selection-start-line="50" selection-start-column="16" selection-end-line="58" selection-end-column="37" />
+          <folding>
+            <marker date="1502736277000" expanded="true" signature="46:1913" ph="{...}" />
+            <marker date="1502736277000" expanded="true" signature="60:211" ph="{...}" />
+            <marker date="1502736277000" expanded="true" signature="223:1911" ph="{...}" />
+            <marker date="1502736277000" expanded="true" signature="276:1908" ph="{...}" />
+            <marker date="1502736277000" expanded="true" signature="310:1899" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Fog.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="45" column="69" lean-forward="false" selection-start-line="45" selection-start-column="69" selection-end-line="45" selection-end-column="76" />
+          <folding>
+            <marker date="1502738090000" expanded="true" signature="22:1020" ph="{...}" />
+            <marker date="1502738090000" expanded="true" signature="36:177" ph="{...}" />
+            <marker date="1502738090000" expanded="true" signature="189:1018" ph="{...}" />
+            <marker date="1502738090000" expanded="true" signature="268:1015" ph="{...}" />
+            <marker date="1502738090000" expanded="true" signature="337:1006" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/FogOfWar/Simulation/Advect.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding>
+            <marker date="1502738111000" expanded="true" signature="36:1256" ph="{...}" />
+            <marker date="1502738111000" expanded="true" signature="50:191" ph="{...}" />
+            <marker date="1502738111000" expanded="true" signature="203:1254" ph="{...}" />
+            <marker date="1502738111000" expanded="true" signature="256:1251" ph="{...}" />
+            <marker date="1502738111000" expanded="true" signature="290:1242" ph="{...}" />
           </folding>
         </state>
       </provider>

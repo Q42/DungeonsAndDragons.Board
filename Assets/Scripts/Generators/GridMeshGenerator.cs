@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using UnityEngine;
 
 namespace Generators
@@ -12,11 +13,16 @@ namespace Generators
 
         public static Mesh GenerateGrid(int sizeX, int sizeY, int[] cutOut)
         {
+            var vertices = GenerateVertices(sizeX, sizeY);
+            var uv = GenerateUVs(vertices, sizeX, sizeY);
+            var triangles = GenerateTriangles(sizeX, sizeY, cutOut);
+            
             var mesh = RecenterPivot(new Mesh
             {
                 name = "Procedural Grid",
-                vertices = GenerateVertices(sizeX, sizeY),
-                triangles = GenerateTriangles(sizeX, sizeY, cutOut)
+                vertices = vertices,
+                uv = uv,
+                triangles = triangles
             });
 
             return mesh;
@@ -37,6 +43,21 @@ namespace Generators
             return vertices;
         }
 
+        private static Vector2[] GenerateUVs(ICollection<Vector3> vertices, float sizeX, float sizeY)
+        {
+            var uvs = new Vector2[vertices.Count];
+
+            for (int i = 0, y = 0; y <= sizeY; y++)
+            {
+                for (int x = 0; x <= sizeX; x++, i++)
+                {
+                    uvs[i] = new Vector2(x / sizeX, y / sizeY);
+                }
+            }
+
+            return uvs;
+        }
+
         private static int[] GenerateTriangles(int sizeX, int sizeY, int[] cutOut)
         {
             var triangles = new int[sizeX * sizeY * 6];
@@ -45,7 +66,7 @@ namespace Generators
             {
                 for (int x = 0; x < sizeX; x++, ti += 6, vi++)
                 {
-                    if (Array.IndexOf(cutOut, vi) >= 0) continue;
+                    if (cutOut != null && Array.IndexOf(cutOut, vi) >= 0) continue;
 
                     triangles[ti] = vi;
                     triangles[ti + 3] = triangles[ti + 2] = vi + 1;
@@ -61,9 +82,7 @@ namespace Generators
         {
             var difference = -mesh.bounds.extents - mesh.vertices[0];
             var vertices = mesh.vertices;
-            
-            Debug.Log(difference);
-            
+
             for (var i = 0; i < vertices.Length; i++)
             {
                 vertices[i] += difference;
