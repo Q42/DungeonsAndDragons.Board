@@ -2,7 +2,264 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44033b2f-df7f-4f88-b50f-65af344138b2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/FBX.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/FBX/DoubleSided-Sphere.FBX" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/FBX/DoubleSided-Sphere.FBX.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/Ambient.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/Ambient.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/Clouds.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/Clouds.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/CloudsBackdrop.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/CloudsBackdrop.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/Clouds_BackLit.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/Clouds_BackLit.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/Display.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/Display/AmbientDisplay.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/Display/AmbientDisplay.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/Display/FogDisplay.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/Display/FogDisplay.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/Display/LightingDisplay.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/Display/LightingDisplay.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/EdgeLighting.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/EdgeLighting.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/ExplosionSmoke_01.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/ExplosionSmoke_01.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/Lighting.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/Lighting.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/No Name.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/No Name.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/RTT_Lighting.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/RTT_Lighting/Advanced_Fog.renderTexture" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/RTT_Lighting/Advanced_Fog.renderTexture.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/RTT_Lighting/Ambient_Source.renderTexture" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/RTT_Lighting/Ambient_Source.renderTexture.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/RTT_Lighting/EdgeLighting.renderTexture" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/RTT_Lighting/EdgeLighting.renderTexture.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/RTT_Lighting/Lighting_Source.renderTexture" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/RTT_Lighting/Lighting_Source.renderTexture.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/RTT_Lighting/Skybox.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Materials/RTT_Lighting/Skybox.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Textures.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Textures/Environment.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Textures/Environment/CGSkies_0112.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Textures/Environment/CGSkies_0112.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Textures/Environment/CGSkies_0112_ambient.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Textures/Environment/CGSkies_0112_ambient.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Textures/Environment/CGSkies_0112_edgelit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Textures/Environment/CGSkies_0112_edgelit.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Textures/Environment/CGSkies_0112_lighting.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Textures/Environment/CGSkies_0112_lighting.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Textures/Environment/Panotest_01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Textures/Environment/Panotest_01.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Textures/VFX.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Textures/VFX/Clouds_01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/Textures/VFX/Clouds_01.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/CloudPuff.unity" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/CloudPuff.unity.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_analytics.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_analytics.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_analytics_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_analytics_dark.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_auth.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_auth.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_auth_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_auth_dark.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_cloud_messaging.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_cloud_messaging.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_cloud_messaging_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_cloud_messaging_dark.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_config.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_config.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_config_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_config_dark.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_database.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_database.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_database_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_database_dark.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_dynamic_links.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_dynamic_links.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_dynamic_links_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_dynamic_links_dark.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_invites.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_invites.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_invites_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_invites_dark.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_storage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_storage.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_storage_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_storage_dark.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/firebase_lockup.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/firebase_lockup.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/firebase_lockup_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/firebase_lockup_dark.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Editor.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Editor/AppDeps.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Editor/AppDeps.cs.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Editor/AuthDeps.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Editor/AuthDeps.cs.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Editor/Firebase.Editor.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Editor/Firebase.Editor.dll.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Editor/FirebaseAuth_v4.0.3_manifest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Editor/FirebaseAuth_v4.0.3_manifest.txt.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Editor/FirebaseDatabase_v4.0.3_manifest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Editor/FirebaseDatabase_v4.0.3_manifest.txt.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Editor/generate_xml_from_google_services_json.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Editor/generate_xml_from_google_services_json.exe.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Editor/generate_xml_from_google_services_json.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Editor/generate_xml_from_google_services_json.py.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Plugins.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Plugins/Firebase.App.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Plugins/Firebase.App.dll.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Plugins/Firebase.Auth.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Plugins/Firebase.Auth.dll.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Plugins/Firebase.Database.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Plugins/Firebase.Database.dll.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Plugins/Google.MiniJson.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Plugins/Google.MiniJson.dll.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Plugins/Google.Sharpen.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Plugins/Google.Sharpen.dll.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Plugins/Http.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Plugins/Http/link.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Plugins/Http/link.xml.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Plugins/iOS.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Plugins/iOS/Firebase.App.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Plugins/iOS/Firebase.App.dll.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Plugins/iOS/Firebase.Auth.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Plugins/iOS/Firebase.Auth.dll.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Plugins/link.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/Plugins/link.xml.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/m2repository.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/m2repository/com.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/m2repository/com/google.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/m2repository/com/google/firebase.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/4.0.3.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/4.0.3/firebase-app-unity-4.0.3.pom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/4.0.3/firebase-app-unity-4.0.3.pom.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/4.0.3/firebase-app-unity-4.0.3.srcaar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/4.0.3/firebase-app-unity-4.0.3.srcaar.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/maven-metadata.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/maven-metadata.xml.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/4.0.3.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/4.0.3/firebase-auth-unity-4.0.3.pom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/4.0.3/firebase-auth-unity-4.0.3.pom.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/4.0.3/firebase-auth-unity-4.0.3.srcaar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/4.0.3/firebase-auth-unity-4.0.3.srcaar.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/maven-metadata.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/maven-metadata.xml.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Parse.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Parse/Plugins.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Parse/Plugins/Unity.Compat.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Parse/Plugins/Unity.Compat.dll.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Parse/Plugins/Unity.Tasks.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Parse/Plugins/Unity.Tasks.dll.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Parse/Plugins/dotNet45.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Parse/Plugins/dotNet45/Unity.Tasks.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Parse/Plugins/dotNet45/Unity.Tasks.dll.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Particles.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Particles/FogOfWar.prefab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Particles/FogOfWar.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.35.0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.35.0.dll.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.35.0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.35.0.dll.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.35.0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.35.0.dll.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/play-services-resolver_v1.2.35.0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/play-services-resolver_v1.2.35.0.txt.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/generate_gradle_prebuild.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/generate_gradle_prebuild.exe.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/generate_gradle_prebuild.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/generate_gradle_prebuild.py.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/gradle-template.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/gradle-template.zip.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/proguard-messaging-workaround.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/proguard-messaging-workaround.txt.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/proguard-unity.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/proguard-unity.txt.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/volatile_paths.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/volatile_paths.json.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Plugins/Android.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Plugins/Android/Firebase.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Plugins/Android/Firebase/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Plugins/Android/Firebase/AndroidManifest.xml.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Plugins/Android/Firebase/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Plugins/Android/Firebase/project.properties.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Plugins/iOS.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Plugins/iOS/Firebase.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Plugins/iOS/Firebase/libApp.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Plugins/iOS/Firebase/libApp.a.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Plugins/iOS/Firebase/libAuth.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Plugins/iOS/Firebase/libAuth.a.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Plugins/x86_64.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Plugins/x86_64/Firebase.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Plugins/x86_64/Firebase/App.bundle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Plugins/x86_64/Firebase/App.bundle.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Plugins/x86_64/Firebase/App.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Plugins/x86_64/Firebase/App.dll.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Plugins/x86_64/Firebase/Auth.bundle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Plugins/x86_64/Firebase/Auth.bundle.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Plugins/x86_64/Firebase/Auth.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Plugins/x86_64/Firebase/Auth.dll.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Plugins/x86_64/Firebase/libApp.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Plugins/x86_64/Firebase/libApp.so.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Plugins/x86_64/Firebase/libAuth.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Plugins/x86_64/Firebase/libAuth.so.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Prefabs/Environment.prefab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Prefabs/Environment.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Camera.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Camera/CameraLocationTracker.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Camera/CameraLocationTracker.cs.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Camera/MirrorMainCamera.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Camera/MirrorMainCamera.cs.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Controllers.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Controllers/FogOfWarController.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Controllers/FogOfWarController.cs.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Controllers/LightingControl.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Controllers/LightingControl.cs.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Controllers/MapController.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Controllers/MapController.cs.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Datastore.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Datastore.cs.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Datastores.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Datastores/MapDatastore.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Datastores/MapDatastore.cs.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Generators.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Generators/GridMeshGenerator.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Generators/GridMeshGenerator.cs.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Models.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Models/Map.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Models/Map.cs.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Shaders.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Shaders/Matcap-EdgedParticleWithFog.shader" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Shaders/Matcap-EdgedParticleWithFog.shader.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Shaders/Matcap-ParticleWithFog.shader" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Shaders/Matcap-ParticleWithFog.shader.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Shaders/Matcap-SoftParticleWithFog.shader" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Shaders/Matcap-SoftParticleWithFog.shader.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Shaders/Unlit-NoFog.shader" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Shaders/Unlit-NoFog.shader.meta" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.DungeonsAndDragonsBoard/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.DungeonsAndDragonsBoard/.idea/contentModel.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.DungeonsAndDragonsBoard/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.DungeonsAndDragonsBoard/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.DungeonsAndDragonsBoard/riderModule.iml" afterPath="$PROJECT_DIR$/.idea/.idea.DungeonsAndDragonsBoard/riderModule.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Plugins.meta" afterPath="$PROJECT_DIR$/Assets/Plugins.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.meta" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs.meta" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Prefabs.meta" afterPath="$PROJECT_DIR$/Assets/Prefabs.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scripts.meta" afterPath="$PROJECT_DIR$/Assets/Scripts.meta" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,132 +268,326 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Datastore.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Datastore.cs">
+      <file leaf-file-name="DungeonMasterPaintMode.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/DungeonMaster/DungeonMasterPaintMode.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="8" column="76" lean-forward="false" selection-start-line="8" selection-start-column="76" selection-end-line="8" selection-end-column="76" />
+            <state relative-caret-position="128">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
-                <marker date="1502359788000" expanded="false" signature="6:88" ph="..." />
-                <marker date="1502359788000" expanded="true" signature="112:681" ph="{...}" />
-                <marker date="1502359788000" expanded="true" signature="116:219" ph="/// Default database reference for the Dungeons and Dragons application. ... " />
-                <marker date="1502359788000" expanded="true" signature="270:399" ph="/// Constructor creating the connection to the Firebase database and getting de default reference. ... " />
-                <marker date="1502359788000" expanded="true" signature="420:679" ph="{...}" />
+                <marker date="1510757222407" expanded="true" signature="6:133" ph="..." />
+                <marker date="1510757222407" expanded="true" signature="158:234" ph="{...}" />
+                <marker date="1510757222407" expanded="true" signature="224:232" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MapDatastore.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Datastores/MapDatastore.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-              <folding>
-                <marker date="1502359910000" expanded="false" signature="6:57" ph="..." />
-                <marker date="1502359910000" expanded="true" signature="79:1452" ph="{...}" />
-                <marker date="1502359910000" expanded="true" signature="123:1450" ph="{...}" />
-                <marker date="1502359910000" expanded="true" signature="138:274" ph="/// Subscribe to the changes in the maps object. For now this is just for testing purposes. ... " />
-                <marker date="1502359910000" expanded="true" signature="312:502" ph="{...}" />
-                <marker date="1502359910000" expanded="true" signature="520:751" ph="/// Save a new map to the Firebase database maps object. For now this is just for testing purposes.  ... " />
-                <marker date="1502359910000" expanded="true" signature="813:1053" ph="{...}" />
-                <marker date="1502359910000" expanded="true" signature="1134:1444" ph="{...}" />
-                <marker date="1502359910000" expanded="true" signature="1185:1349" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Map.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Models/Map.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-              <folding>
-                <marker date="1502359910000" expanded="true" signature="36:234" ph="{...}" />
-                <marker date="1502359910000" expanded="true" signature="57:232" ph="{...}" />
-                <marker date="1502359910000" expanded="true" signature="126:131" ph="{...}" />
-                <marker date="1502359910000" expanded="true" signature="177:226" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MapController.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/MapController.cs">
+      <file leaf-file-name="DungeonBuilder.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Dungeon/DungeonBuilder.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
-              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+              <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
               <folding>
-                <marker date="1502450990000" expanded="false" signature="6:54" ph="..." />
-                <marker date="1502450990000" expanded="true" signature="77:736" ph="{...}" />
-                <marker date="1502450990000" expanded="true" signature="126:734" ph="{...}" />
-                <marker date="1502450990000" expanded="true" signature="178:422" ph="/* private MapDatastore _mapDatastore; ... */" />
-                <marker date="1502450990000" expanded="true" signature="452:728" ph="{...}" />
-                <marker date="1502450990000" expanded="true" signature="551:621" ph="{...}" />
+                <marker date="1490014799000" expanded="false" signature="87:294" ph="..." />
+                <marker date="1490014799000" expanded="true" signature="322:17231" ph="{...}" />
+                <marker date="1490014799000" expanded="false" signature="332:501" ph="..." />
+                <marker date="1490014799000" expanded="true" signature="507:672" ph="/// Builds the layout of the dungeon and emits markers around the layout ... " />
+                <marker date="1490014799000" expanded="true" signature="750:17229" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="1169:1435" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="1195:1425" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="1480:1540" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="1592:1646" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="1684:1743" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="1753:1983" ph="/// Builds the dungeon layout ... " />
+                <marker date="1490014799000" expanded="true" signature="2066:2285" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="2323:2373" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="2651:2672" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="2682:2767" ph="/// Emit markers defined by this builder ... " />
+                <marker date="1490014799000" expanded="true" signature="2810:2835" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="2845:2967" ph="/// Emit markers defined by the user (implementation of DungeonMarkerEmitter) ... " />
+                <marker date="1490014799000" expanded="true" signature="3007:3210" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="3129:3200" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="3245:3302" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="3410:3770" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="3943:4790" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="4487:4780" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="4932:5293" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="5418:6136" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="5513:5629" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="5836:6126" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="5922:6047" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="6146:6462" ph="/// Implementations should override this so that the new logical scale and position is set based on the volume's  ... " />
+                <marker date="1490014799000" expanded="true" signature="6592:6774" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="7023:7959" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="7156:7700" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="7234:7686" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="7394:7668" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="7542:7646" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="7740:7797" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="8138:8430" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="8193:8299" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="8485:9361" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="8743:9351" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="8804:9337" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="8916:9331" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="9102:9324" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="9176:9316" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="9240:9307" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="9472:17223" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="9653:9749" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="9906:10000" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="10512:11133" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="10569:10591" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="10783:11119" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="11311:17092" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="11742:12249" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="11837:12227" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="12014:12201" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="12480:17078" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="12639:17060" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="12842:13246" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="12999:13220" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="13275:13551" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="13655:14851" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="13865:14037" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="14070:14825" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="14336:14707" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="14892:17038" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="14948:15032" ph="/* Attach this prop to the socket ... */" />
+                <marker date="1490014799000" expanded="true" signature="15148:15607" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="15287:15598" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="15652:15787" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="15841:16150" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="16195:16314" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="16522:16793" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="16848:17012" ph="{...}" />
+                <marker date="1490014799000" expanded="true" signature="17138:17213" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FogOfWarController.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/FogOfWarController.cs">
+      <file leaf-file-name="Dungeon.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Dungeon/Dungeon.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
+            <state relative-caret-position="224">
+              <caret line="19" column="15" lean-forward="false" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
               <folding>
-                <marker date="1502398059000" expanded="true" signature="41:1130" ph="{...}" />
-                <marker date="1502398059000" expanded="true" signature="184:1128" ph="{...}" />
-                <marker date="1502398059000" expanded="true" signature="360:576" ph="{...}" />
-                <marker date="1502398059000" expanded="true" signature="608:708" ph="{...}" />
-                <marker date="1502398059000" expanded="true" signature="774:1122" ph="{...}" />
+                <marker date="1490014976000" expanded="false" signature="87:239" ph="..." />
+                <marker date="1490014976000" expanded="true" signature="267:9025" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="274:394" ph="/// The main dungeon behavior that manages the creation and destruction of dungeons ... " />
+                <marker date="1490014976000" expanded="true" signature="454:9021" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="607:688" ph="/// Active model used by the dungeon ... " />
+                <marker date="1490014976000" expanded="true" signature="723:856" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="732:852" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="764:822" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="866:1127" ph="/// Flag to check if the layout has been built.   ... " />
+                <marker date="1490014976000" expanded="true" signature="1156:1342" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="1165:1338" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="1210:1280" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="1503:1559" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="1569:1657" ph="/// List of themes assigned to this dungeon ... " />
+                <marker date="1490014976000" expanded="true" signature="1703:1842" ph="/// Flag to rebuild the dungeon. Set this to true if you want to rebuild it in the next update ... " />
+                <marker date="1490014976000" expanded="true" signature="1907:2023" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="1916:2019" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="1942:1995" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="2046:2077" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="2095:2100" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="2123:2492" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="2148:2199" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="2234:2305" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="2341:2401" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="2432:2488" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="2545:2891" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="2668:2854" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="2901:3003" ph="/// Builds the complete dungeon (layout and visual phase) ... " />
+                <marker date="1490014976000" expanded="true" signature="3026:3478" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="3262:3322" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="3339:3436" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="3488:3686" ph="/// Runs the theming engine over the existing layout to rebuild the game objects from the theme file.   ... " />
+                <marker date="1490014976000" expanded="true" signature="3716:4206" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="4248:4454" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="4487:4652" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="4584:4648" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="4679:4838" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="4776:4834" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="4899:5186" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="5022:5176" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="5220:5372" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="5323:5368" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="5382:5451" ph="/// Destroys the dungeon ... " />
+                <marker date="1490014976000" expanded="true" signature="5483:6203" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="5667:5872" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="5767:5858" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="5910:6017" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="5943:5970" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="6060:6097" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="6130:6170" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="6207:6303" ph="/// Requests the dungeon to be rebuilt in the next update phase ... " />
+                <marker date="1490014976000" expanded="true" signature="6335:6368" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="6387:6607" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="6455:6513" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="6540:6597" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="6623:6643" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="6664:6781" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="6705:6777" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="6791:7101" ph="/// Registers a painted cell ... " />
+                <marker date="1490014976000" expanded="true" signature="7172:7915" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="7424:7724" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="7488:7719" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="7525:7615" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="7615:7713" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="7749:7818" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="7892:7911" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="7925:8251" ph="/// Remove a previous painted cell ... " />
+                <marker date="1490014976000" expanded="true" signature="8330:8613" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="8503:8609" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="8582:8604" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="8623:8747" ph="/// Clears all overlay data ... " />
+                <marker date="1490014976000" expanded="true" signature="8811:9018" ph="{...}" />
+                <marker date="1490014976000" expanded="true" signature="8994:9014" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GridMeshGenerator.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Generators/GridMeshGenerator.cs">
+      <file leaf-file-name="DungeonModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Dungeon/DungeonModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="103">
+              <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+              <folding>
+                <marker date="1490014624000" expanded="false" signature="87:177" ph="..." />
+                <marker date="1490014624000" expanded="true" signature="205:1264" ph="{...}" />
+                <marker date="1490014624000" expanded="true" signature="212:380" ph="/// Abstract dungeon model.  Create your own implementation of the model depending on your builder's needs ... " />
+                <marker date="1490014624000" expanded="true" signature="432:803" ph="{...}" />
+                <marker date="1490014624000" expanded="true" signature="456:502" ph="{...}" />
+                <marker date="1490014624000" expanded="true" signature="708:799" ph="{...}" />
+                <marker date="1490014624000" expanded="true" signature="810:898" ph="/// Tool Data represented by the grid based builder ... " />
+                <marker date="1490014624000" expanded="true" signature="969:1262" ph="{...}" />
+                <marker date="1490014624000" expanded="true" signature="1155:1256" ph="{...}" />
+                <marker date="1490014624000" expanded="true" signature="1181:1246" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DungeonMasterPaintModeEditor.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/DungeonMaster/Editor/DungeonMasterPaintModeEditor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="6" column="63" lean-forward="false" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
+              <folding>
+                <marker date="1510754277090" expanded="false" signature="6:50" ph="..." />
+                <marker date="1510754277090" expanded="true" signature="82:235" ph="{...}" />
+                <marker date="1510754277090" expanded="true" signature="211:233" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DungeonPaintModeGridEditor.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Grid/Editor/DungeonPaintModeGridEditor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="52" />
+              <folding>
+                <marker date="1490014560000" expanded="true" signature="87:259" ph="..." />
+                <marker date="1490014560000" expanded="true" signature="295:6907" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="302:397" ph="/// Custom property editor for the Paint model game object ... " />
+                <marker date="1490014560000" expanded="true" signature="515:6905" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="629:1187" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="829:888" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="1234:1407" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="1335:1397" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="1464:2280" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="1547:1645" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="1911:2276" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="1981:2033" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="2125:2271" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="2168:2265" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="2344:3536" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="2602:2695" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="2769:2822" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="2898:2991" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="3061:3114" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="3163:3299" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="3567:3731" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="3774:5088" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="4350:5021" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="4396:5016" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="4550:4757" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="4643:4750" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="4767:5010" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="4874:5003" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="5162:5343" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="5459:6037" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="5508:5658" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="5675:5776" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="5719:5771" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="6124:6899" ph="{...}" />
+                <marker date="1490014560000" expanded="true" signature="6506:6889" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MathUtils.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Utils/MathUtils.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
-              <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="26" />
               <folding>
-                <marker date="1502398460000" expanded="false" signature="6:32" ph="..." />
-                <marker date="1502398460000" expanded="true" signature="54:2191" ph="{...}" />
-                <marker date="1502398460000" expanded="true" signature="91:2189" ph="{...}" />
-                <marker date="1502398460000" expanded="true" signature="159:232" ph="{...}" />
-                <marker date="1502398460000" expanded="true" signature="309:600" ph="{...}" />
-                <marker date="1502398460000" expanded="true" signature="378:562" ph="{...}" />
-                <marker date="1502398460000" expanded="true" signature="673:1017" ph="{...}" />
-                <marker date="1502398460000" expanded="true" signature="803:977" ph="{...}" />
-                <marker date="1502398460000" expanded="true" signature="871:963" ph="{...}" />
-                <marker date="1502398460000" expanded="true" signature="1101:1709" ph="{...}" />
-                <marker date="1502398460000" expanded="true" signature="1234:1668" ph="{...}" />
-                <marker date="1502398460000" expanded="true" signature="1311:1654" ph="{...}" />
-                <marker date="1502398460000" expanded="true" signature="1762:2183" ph="{...}" />
-                <marker date="1502398460000" expanded="true" signature="1999:2070" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CameraLocationTracker.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Camera/CameraLocationTracker.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-              <folding>
-                <marker date="1488923229000" expanded="true" signature="6:150" ph="..." />
-                <marker date="1488923229000" expanded="true" signature="222:2291" ph="{...}" />
-                <marker date="1488923229000" expanded="true" signature="563:880" ph="{...}" />
-                <marker date="1488923229000" expanded="true" signature="592:784" ph="{...}" />
-                <marker date="1488923229000" expanded="true" signature="925:2289" ph="{...}" />
-                <marker date="1488923229000" expanded="true" signature="1595:2268" ph="{...}" />
-                <marker date="1488923229000" expanded="true" signature="1618:1847" ph="{...}" />
-                <marker date="1488923229000" expanded="true" signature="1710:1842" ph="{...}" />
+                <marker date="1490014627000" expanded="false" signature="87:197" ph="..." />
+                <marker date="1490014627000" expanded="true" signature="231:10933" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="238:309" ph="/// Various math utility functions ... " />
+                <marker date="1490014627000" expanded="true" signature="336:10931" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="351:535" ph="/// Copies the rectangle object ... " />
+                <marker date="1490014627000" expanded="true" signature="589:688" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="698:898" ph="/// Divides two vector3 objects ... " />
+                <marker date="1490014627000" expanded="true" signature="952:1031" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="1041:1213" ph="/// Converts an IntVector to a Vector3 ... " />
+                <marker date="1490014627000" expanded="true" signature="1261:1304" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="1314:1606" ph="/// Converts the world coordinates to grid coordinates ... " />
+                <marker date="1490014627000" expanded="true" signature="1687:1750" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="1760:2047" ph="/// Converts the grid coordinate to world coordinate ... " />
+                <marker date="1490014627000" expanded="true" signature="2124:2189" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="2199:2486" ph="/// Converts the grid coordinate to world coordinate ... " />
+                <marker date="1490014627000" expanded="true" signature="2561:2618" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="2628:2895" ph="/// Converts an IntVector to a Vector3, with the XYZ components floored ... " />
+                <marker date="1490014627000" expanded="true" signature="2945:3062" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="3072:3313" ph="/// Rounds to an IntVector, with the XYZ components rounded to the nearest int ... " />
+                <marker date="1490014627000" expanded="true" signature="3368:3485" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="3495:3785" ph="/// Snaps the position to the nearest grid cell location ... " />
+                <marker date="1490014627000" expanded="true" signature="3861:3918" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="3928:4329" ph="/// Snaps the position to the nearest grid cell location ... " />
+                <marker date="1490014627000" expanded="true" signature="4428:4972" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="4484:4679" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="4982:5250" ph="/// Checks if the two rectangles intersect ... " />
+                <marker date="1490014627000" expanded="true" signature="5307:5734" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="5746:6048" ph="/// Test if the graph link lies within the rectangle ... " />
+                <marker date="1490014627000" expanded="true" signature="6109:6670" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="6319:6342" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="6676:6789" ph="/// Flips the coordinates for 2D mode ... " />
+                <marker date="1490014627000" expanded="true" signature="6837:6965" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="6969:7114" ph="/// Flips the coordinates for 2D mode ... " />
+                <marker date="1490014627000" expanded="true" signature="7162:7247" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="7251:7396" ph="/// Flips the coordinates for 2D mode ... " />
+                <marker date="1490014627000" expanded="true" signature="7448:7533" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="7580:7702" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="7706:7779" ph="/// Flag to indicate an invalid location ... " />
+                <marker date="1490014627000" expanded="true" signature="7923:8209" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="8014:8199" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="8290:8534" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="8387:8447" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="8616:9782" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="9453:9552" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="9661:9729" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="9870:10650" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="10709:10771" ph="{...}" />
+                <marker date="1490014627000" expanded="true" signature="10847:10924" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -147,21 +598,27 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>idea</find>
+      <find>SetElevationDelta</find>
+      <find>cursorPosition</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/a1/205d78ac/Mesh.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/MapController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Generators/GridMeshGenerator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Datastore.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/Map.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/FogOfWarController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0478488F-E934-4B79-85E4-18662C23194D/8a/b0cad827/HandleUtility.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Dungeon/DungeonBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0478488F-E934-4B79-85E4-18662C23194D/12/cf8fe0ca/Editor.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Dungeon/Dungeon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/68038E69-8340-449B-8C26-5DC9F5B644DF/39/effe98ad/Camera.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Dungeon/DungeonModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/6f/f707a004/GradientAlphaKey.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Datastores/MapDatastore.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Camera/CameraLocationTracker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Utils/MathUtils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Grid/PaintTool/DungeonPaintModeGrid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/a1/205d78ac/Mesh.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Grid/Editor/DungeonPaintModeGridEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DungeonMaster/DungeonMasterPaintMode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DungeonMaster/Editor/DungeonMasterPaintModeEditor.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -176,6 +633,15 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Generators/GridMeshGenerator.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/FogOfWarController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/MapController.cs" />
+        <option value="$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Grid/PaintTool/DungeonPaintModeGrid.cs" />
+        <option value="$PROJECT_DIR$/Assets/DungeonArchitect/Editor/Dungeon/DungeonPaintModeEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Grid/Editor/DungeonPaintModeGridEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Dungeon/DungeonMasterPaintMode.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Dungeon/DungeonMasterPaintModeEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/Dungeon/DungeonMasterPaintModeEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Dungeon/Editor/DungeonMasterPaintModeEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DungeonMaster/Editor/DungeonMasterPaintModeEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DungeonMaster/DungeonMasterPaintMode.cs" />
       </list>
     </option>
   </component>
@@ -186,7 +652,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
+    <option name="y" value="514" />
     <option name="width" value="1916" />
     <option name="height" value="1178" />
   </component>
@@ -207,16 +673,23 @@
     <panes>
       <pane id="SolutionExplorer">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DungeonsAndDragonsBoard (3 projects)" />
-              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DungeonsAndDragonsBoard (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DungeonsAndDragonsBoard (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DungeonsAndDragonsBoard (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp-Editor" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
         </subPane>
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
@@ -241,6 +714,15 @@
     </option>
   </component>
   <component name="RunManager" selected="Unity Debug.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" pid="1438" />
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
     <configuration default="true" type="BashConfigurationType" factoryName="Bash">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="INTERPRETER_PATH" value="/bin/bash" />
@@ -286,15 +768,6 @@
     <configuration default="true" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug">
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
       <command value="run" />
       <scripts />
@@ -315,12 +788,6 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <configuration default="false" name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug">
-      <method />
-    </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Unity Debug.Attach to Unity Editor" />
-    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -335,11 +802,12 @@
       <workItem from="1502310286580" duration="4680000" />
       <workItem from="1502359707554" duration="12685000" />
       <workItem from="1502450810546" duration="187000" />
+      <workItem from="1510751870974" duration="4446000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17552000" />
+    <option name="totallyTimeSpent" value="21998000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -351,219 +819,57 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1916" height="1178" extended-state="6" />
+    <frame x="0" y="514" width="1916" height="1178" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14979123" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15101388" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963988" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30297565" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3028624" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Datastore.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="8" column="76" lean-forward="false" selection-start-line="8" selection-start-column="76" selection-end-line="8" selection-end-column="76" />
-          <folding>
-            <marker date="1502359788000" expanded="false" signature="6:88" ph="..." />
-            <marker date="1502359788000" expanded="true" signature="112:681" ph="{...}" />
-            <marker date="1502359788000" expanded="true" signature="116:219" ph="/// Default database reference for the Dungeons and Dragons application. ... " />
-            <marker date="1502359788000" expanded="true" signature="270:399" ph="/// Constructor creating the connection to the Firebase database and getting de default reference. ... " />
-            <marker date="1502359788000" expanded="true" signature="420:679" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Datastores/MapDatastore.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-          <folding>
-            <marker date="1502359910000" expanded="false" signature="6:57" ph="..." />
-            <marker date="1502359910000" expanded="true" signature="79:1452" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="123:1450" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="138:274" ph="/// Subscribe to the changes in the maps object. For now this is just for testing purposes. ... " />
-            <marker date="1502359910000" expanded="true" signature="312:502" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="520:751" ph="/// Save a new map to the Firebase database maps object. For now this is just for testing purposes.  ... " />
-            <marker date="1502359910000" expanded="true" signature="813:1053" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="1134:1444" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="1185:1349" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Models/Map.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-          <folding>
-            <marker date="1502359910000" expanded="true" signature="36:234" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="57:232" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="126:131" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="177:226" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/FogOfWarController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
-          <folding>
-            <marker date="1502398059000" expanded="true" signature="41:1130" ph="{...}" />
-            <marker date="1502398059000" expanded="true" signature="184:1128" ph="{...}" />
-            <marker date="1502398059000" expanded="true" signature="360:576" ph="{...}" />
-            <marker date="1502398059000" expanded="true" signature="608:708" ph="{...}" />
-            <marker date="1502398059000" expanded="true" signature="774:1122" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Generators/GridMeshGenerator.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-          <folding>
-            <marker date="1502398460000" expanded="false" signature="6:32" ph="..." />
-            <marker date="1502398460000" expanded="true" signature="54:2191" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="91:2189" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="159:232" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="309:600" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="378:562" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="673:1017" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="803:977" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="871:963" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="1101:1709" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="1234:1668" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="1311:1654" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="1762:2183" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="1999:2070" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Camera/CameraLocationTracker.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding>
-            <marker date="1488923229000" expanded="true" signature="6:150" ph="..." />
-            <marker date="1488923229000" expanded="true" signature="222:2291" ph="{...}" />
-            <marker date="1488923229000" expanded="true" signature="563:880" ph="{...}" />
-            <marker date="1488923229000" expanded="true" signature="592:784" ph="{...}" />
-            <marker date="1488923229000" expanded="true" signature="925:2289" ph="{...}" />
-            <marker date="1488923229000" expanded="true" signature="1595:2268" ph="{...}" />
-            <marker date="1488923229000" expanded="true" signature="1618:1847" ph="{...}" />
-            <marker date="1488923229000" expanded="true" signature="1710:1842" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/MapController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
-          <folding>
-            <marker date="1502450990000" expanded="false" signature="6:54" ph="..." />
-            <marker date="1502450990000" expanded="true" signature="77:736" ph="{...}" />
-            <marker date="1502450990000" expanded="true" signature="126:734" ph="{...}" />
-            <marker date="1502450990000" expanded="true" signature="178:422" ph="/* private MapDatastore _mapDatastore; ... */" />
-            <marker date="1502450990000" expanded="true" signature="452:728" ph="{...}" />
-            <marker date="1502450990000" expanded="true" signature="551:621" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Datastore.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1502359788000" expanded="false" signature="6:88" ph="..." />
-            <marker date="1502359788000" expanded="true" signature="112:681" ph="{...}" />
-            <marker date="1502359788000" expanded="true" signature="116:219" ph="/// Default database reference for the Dungeons and Dragons application. ... " />
-            <marker date="1502359788000" expanded="true" signature="270:399" ph="/// Constructor creating the connection to the Firebase database and getting de default reference. ... " />
-            <marker date="1502359788000" expanded="true" signature="420:679" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Datastores/MapDatastore.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <marker date="1502359910000" expanded="false" signature="6:57" ph="..." />
-            <marker date="1502359910000" expanded="true" signature="79:1452" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="123:1450" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="138:274" ph="/// Subscribe to the changes in the maps object. For now this is just for testing purposes. ... " />
-            <marker date="1502359910000" expanded="true" signature="312:502" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="520:751" ph="/// Save a new map to the Firebase database maps object. For now this is just for testing purposes.  ... " />
-            <marker date="1502359910000" expanded="true" signature="813:1053" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="1134:1444" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="1185:1349" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Datastore.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Datastores/MapDatastore.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Models/Map.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/FogOfWarController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Generators/GridMeshGenerator.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Camera/CameraLocationTracker.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/MapController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Datastore.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Datastores/MapDatastore.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/General/FaceCamera.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Models/Map.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-          <folding>
-            <marker date="1502359910000" expanded="true" signature="36:234" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="57:232" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="126:131" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="177:226" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/MapController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <marker date="1502450990000" expanded="false" signature="6:54" ph="..." />
-            <marker date="1502450990000" expanded="true" signature="77:736" ph="{...}" />
-            <marker date="1502450990000" expanded="true" signature="126:734" ph="{...}" />
-            <marker date="1502450990000" expanded="true" signature="178:422" ph="/* private MapDatastore _mapDatastore; ... */" />
-            <marker date="1502450990000" expanded="true" signature="452:728" ph="{...}" />
-            <marker date="1502450990000" expanded="true" signature="551:621" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Models/Map.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/MapController.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Datastore/MapDatastore.cs" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -573,51 +879,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/General/FaceCamera.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Datastore.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="8" column="76" lean-forward="false" selection-start-line="8" selection-start-column="76" selection-end-line="8" selection-end-column="76" />
-          <folding>
-            <marker date="1502359788000" expanded="false" signature="6:88" ph="..." />
-            <marker date="1502359788000" expanded="true" signature="112:681" ph="{...}" />
-            <marker date="1502359788000" expanded="true" signature="116:219" ph="/// Default database reference for the Dungeons and Dragons application. ... " />
-            <marker date="1502359788000" expanded="true" signature="270:399" ph="/// Constructor creating the connection to the Firebase database and getting de default reference. ... " />
-            <marker date="1502359788000" expanded="true" signature="420:679" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Datastores/MapDatastore.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-          <folding>
-            <marker date="1502359910000" expanded="false" signature="6:57" ph="..." />
-            <marker date="1502359910000" expanded="true" signature="79:1452" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="123:1450" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="138:274" ph="/// Subscribe to the changes in the maps object. For now this is just for testing purposes. ... " />
-            <marker date="1502359910000" expanded="true" signature="312:502" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="520:751" ph="/// Save a new map to the Firebase database maps object. For now this is just for testing purposes.  ... " />
-            <marker date="1502359910000" expanded="true" signature="813:1053" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="1134:1444" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="1185:1349" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Models/Map.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-          <folding>
-            <marker date="1502359910000" expanded="true" signature="36:234" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="57:232" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="126:131" ph="{...}" />
-            <marker date="1502359910000" expanded="true" signature="177:226" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Datastore.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Datastores/MapDatastore.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Models/Map.cs" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/6f/f707a004/GradientAlphaKey.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="496">
@@ -633,71 +897,554 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Camera/GetRes.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Generators/GridMeshGenerator.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Generators/GridMeshGenerator.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Camera/CameraLocationTracker.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/FogOfWarController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/MapController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Dungeon/DungeonPaintMode.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="53" column="17" lean-forward="false" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Dungeon/DungeonMasterPaintMode.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Editor/Dungeon/DungeonPaintModeEditor.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-          <folding>
-            <marker date="1502398460000" expanded="false" signature="6:32" ph="..." />
-            <marker date="1502398460000" expanded="true" signature="54:2191" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="91:2189" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="159:232" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="309:600" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="378:562" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="673:1017" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="803:977" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="871:963" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="1101:1709" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="1234:1668" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="1311:1654" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="1762:2183" ph="{...}" />
-            <marker date="1502398460000" expanded="true" signature="1999:2070" ph="{...}" />
-          </folding>
+          <caret line="13" column="39" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Camera/CameraLocationTracker.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Dungeon/DungeonMasterPaintModeEditor.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding>
-            <marker date="1488923229000" expanded="true" signature="6:150" ph="..." />
-            <marker date="1488923229000" expanded="true" signature="222:2291" ph="{...}" />
-            <marker date="1488923229000" expanded="true" signature="563:880" ph="{...}" />
-            <marker date="1488923229000" expanded="true" signature="592:784" ph="{...}" />
-            <marker date="1488923229000" expanded="true" signature="925:2289" ph="{...}" />
-            <marker date="1488923229000" expanded="true" signature="1595:2268" ph="{...}" />
-            <marker date="1488923229000" expanded="true" signature="1618:1847" ph="{...}" />
-            <marker date="1488923229000" expanded="true" signature="1710:1842" ph="{...}" />
-          </folding>
+        <state relative-caret-position="80">
+          <caret line="5" column="55" lean-forward="false" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/FogOfWarController.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/Dungeon/DungeonMasterPaintModeEditor.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
-          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
+          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Utils/DungeonUtils.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" column="57" lean-forward="false" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Dungeon/Editor/DungeonMasterPaintModeEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DungeonMaster/Editor/DungeonMasterPaintModeEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="63" lean-forward="false" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
           <folding>
-            <marker date="1502398059000" expanded="true" signature="41:1130" ph="{...}" />
-            <marker date="1502398059000" expanded="true" signature="184:1128" ph="{...}" />
-            <marker date="1502398059000" expanded="true" signature="360:576" ph="{...}" />
-            <marker date="1502398059000" expanded="true" signature="608:708" ph="{...}" />
-            <marker date="1502398059000" expanded="true" signature="774:1122" ph="{...}" />
+            <marker date="1510754277090" expanded="false" signature="6:50" ph="..." />
+            <marker date="1510754277090" expanded="true" signature="82:235" ph="{...}" />
+            <marker date="1510754277090" expanded="true" signature="211:233" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/MapController.cs">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0478488F-E934-4B79-85E4-18662C23194D/12/cf8fe0ca/Editor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="154" column="30" lean-forward="false" selection-start-line="154" selection-start-column="30" selection-end-line="154" selection-end-column="30" />
+          <folding>
+            <marker date="1510752778396" expanded="true" signature="0:278" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1510752778396" expanded="false" signature="286:546" ph="..." />
+            <marker date="1510752778396" expanded="true" signature="569:27756" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="574:743" ph="///   &lt;para&gt;Base class to derive custom Editors from. Use this to create your own custom inspectors and editors f ... " />
+            <marker date="1510752778396" expanded="true" signature="879:27754" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="1734:1874" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="1750:1868" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="1880:2139" ph="///   &lt;para&gt;Make a custom editor for targetObject or targetObjects with a context object.&lt;/para&gt; ... " />
+            <marker date="1510752778396" expanded="true" signature="2530:2674" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="2840:3001" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="2922:2952" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="3170:3651" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="3778:3957" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="3860:3890" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="4087:4217" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="4223:4543" ph="///   &lt;para&gt;Make a custom editor for targetObject or targetObjects.&lt;/para&gt; ... " />
+            <marker date="1510752778396" expanded="true" signature="4636:4759" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="4765:5085" ph="///   &lt;para&gt;Make a custom editor for targetObject or targetObjects.&lt;/para&gt; ... " />
+            <marker date="1510752778396" expanded="true" signature="5203:5363" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="5286:5316" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="5369:5689" ph="///   &lt;para&gt;Make a custom editor for targetObject or targetObjects.&lt;/para&gt; ... " />
+            <marker date="1510752778396" expanded="true" signature="5785:5909" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="5915:6235" ph="///   &lt;para&gt;Make a custom editor for targetObject or targetObjects.&lt;/para&gt; ... " />
+            <marker date="1510752778396" expanded="true" signature="6356:6467" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="6473:6556" ph="///   &lt;para&gt;The object being inspected.&lt;/para&gt; ... " />
+            <marker date="1510752778396" expanded="true" signature="6593:6802" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="6609:6683" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="6693:6796" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="6808:6907" ph="///   &lt;para&gt;An array of all the object being inspected.&lt;/para&gt; ... " />
+            <marker date="1510752778396" expanded="true" signature="6947:7212" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="6963:7206" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="7259:7523" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="7275:7378" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="7388:7517" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="7564:7845" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="7580:7839" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="7851:7977" ph="///   &lt;para&gt;A SerializedObject representing the object or objects being inspected.&lt;/para&gt; ... " />
+            <marker date="1510752778396" expanded="true" signature="8022:8312" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="8038:8306" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="8381:8560" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="8602:8927" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="8649:8764" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="8965:9013" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="9065:9194" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="9325:10336" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="9383:9498" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="9655:9715" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="10409:11205" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="10695:11106" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="11322:11688" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="11466:11682" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="11694:11778" ph="///   &lt;para&gt;Draw the built-in inspector.&lt;/para&gt; ... " />
+            <marker date="1510752778396" expanded="true" signature="11817:11873" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="11879:11986" ph="///   &lt;para&gt;Implement this function to make a custom inspector.&lt;/para&gt; ... " />
+            <marker date="1510752778396" expanded="true" signature="12027:12074" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="12080:12207" ph="///   &lt;para&gt;Does this edit require to be repainted constantly in its current state?&lt;/para&gt; ... " />
+            <marker date="1510752778396" expanded="true" signature="12257:12289" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="12351:12389" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="12439:12486" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="12558:12602" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="12727:12819" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="12888:12968" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="13004:13145" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="13020:13072" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="13082:13139" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="13151:13253" ph="///   &lt;para&gt;Repaint any inspectors that shows this editor.&lt;/para&gt; ... " />
+            <marker date="1510752778396" expanded="true" signature="13279:13337" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="13343:13586" ph="///   &lt;para&gt;Override this method in subclasses if you implement OnPreviewGUI.&lt;/para&gt; ... " />
+            <marker date="1510752778396" expanded="true" signature="13626:13681" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="13687:13816" ph="///   &lt;para&gt;Override this method if you want to change the label of the Preview area.&lt;/para&gt; ... " />
+            <marker date="1510752778396" expanded="true" signature="13864:13921" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="13927:14211" ph="///   &lt;para&gt;Override this method if you want to render a static preview that shows.&lt;/para&gt; ... " />
+            <marker date="1510752778396" expanded="true" signature="14333:14376" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="14382:14699" ph="///   &lt;para&gt;Implement to create your own custom preview for the preview area of the inspector, primary editor hea ... " />
+            <marker date="1510752778396" expanded="true" signature="14765:14825" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="14831:15173" ph="///   &lt;para&gt;Implement to create your own interactive custom preview. Interactive custom previews are used in the  ... " />
+            <marker date="1510752778396" expanded="true" signature="15250:15302" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="15308:15443" ph="///   &lt;para&gt;Override this method if you want to show custom controls in the preview header.&lt;/para&gt; ... " />
+            <marker date="1510752778396" expanded="true" signature="15487:15539" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="15545:15677" ph="///   &lt;para&gt;Implement this method to show asset information on top of the asset preview.&lt;/para&gt; ... " />
+            <marker date="1510752778396" expanded="true" signature="15719:15774" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="15828:15840" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="15890:15947" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="15990:16249" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="16006:16243" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="16055:16199" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="16305:16387" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="16321:16381" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="16434:16529" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="16450:16523" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="16582:17035" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="16707:17008" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="16767:17000" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="17120:17248" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="17315:17347" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="17418:17895" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="17633:17811" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="17939:18018" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="18024:18132" ph="///   &lt;para&gt;Call this function to draw the header of the editor.&lt;/para&gt; ... " />
+            <marker date="1510752778396" expanded="true" signature="18161:18300" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="18342:18406" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="18455:19285" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="18641:18959" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="19343:20166" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="19510:19862" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="19720:19854" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="19894:19982" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="19993:20160" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="20241:20370" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="20434:21030" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="21080:21279" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="21349:21418" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="21506:23432" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="23225:23403" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="23486:23819" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="23860:24003" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="24009:24236" ph="///   &lt;para&gt;The first entry point for Preview Drawing.&lt;/para&gt; ... " />
+            <marker date="1510752778396" expanded="true" signature="24290:24383" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="24429:25014" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="24858:24988" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="25101:25211" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="25318:25839" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="25480:25628" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="25878:26167" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="25942:26142" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="26202:26282" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="26335:26580" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="26419:26555" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="26586:26727" ph="///   &lt;para&gt;Override this method in subclasses to return false if you don't want default margins.&lt;/para&gt; ... " />
+            <marker date="1510752778396" expanded="true" signature="26771:26802" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="26860:26960" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="26994:27103" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="27134:27183" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="27223:27270" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="27375:27750" ph="{...}" />
+            <marker date="1510752778396" expanded="true" signature="27622:27744" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Grid/PaintTool/DungeonPaintModeGrid.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <marker date="1490014521000" expanded="false" signature="87:125" ph="..." />
+            <marker date="1490014521000" expanded="true" signature="167:2085" ph="{...}" />
+            <marker date="1490014521000" expanded="true" signature="174:304" ph="/// Editor tooling for the grid based dungeon builder. Lets you paint with a grid based brush ... " />
+            <marker date="1490014521000" expanded="true" signature="385:2083" ph="{...}" />
+            <marker date="1490014521000" expanded="true" signature="400:564" ph="/// The height of the cursor in grid cooridnates. Can also be changed with the mouse wheel in the editor when act ... " />
+            <marker date="1490014521000" expanded="true" signature="618:707" ph="/// The opacity of the overlay colored tiles ... " />
+            <marker date="1490014521000" expanded="true" signature="755:941" ph="/// Indicates if the painting is to be done in 2D mode (for 2D dungeons) ... " />
+            <marker date="1490014521000" expanded="true" signature="975:1073" ph="/// The size of the brush.  This would create a brush of size NxN ... " />
+            <marker date="1490014521000" expanded="true" signature="1111:1212" ph="/// Reference to the grid model used by the grid builder ... " />
+            <marker date="1490014521000" expanded="true" signature="1296:1500" ph="{...}" />
+            <marker date="1490014521000" expanded="true" signature="1550:1612" ph="{...}" />
+            <marker date="1490014521000" expanded="true" signature="1676:2077" ph="{...}" />
+            <marker date="1490014521000" expanded="true" signature="1820:2036" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Utils/MathUtils.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <marker date="1490014627000" expanded="false" signature="87:197" ph="..." />
+            <marker date="1490014627000" expanded="true" signature="231:10933" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="238:309" ph="/// Various math utility functions ... " />
+            <marker date="1490014627000" expanded="true" signature="336:10931" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="351:535" ph="/// Copies the rectangle object ... " />
+            <marker date="1490014627000" expanded="true" signature="589:688" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="698:898" ph="/// Divides two vector3 objects ... " />
+            <marker date="1490014627000" expanded="true" signature="952:1031" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="1041:1213" ph="/// Converts an IntVector to a Vector3 ... " />
+            <marker date="1490014627000" expanded="true" signature="1261:1304" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="1314:1606" ph="/// Converts the world coordinates to grid coordinates ... " />
+            <marker date="1490014627000" expanded="true" signature="1687:1750" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="1760:2047" ph="/// Converts the grid coordinate to world coordinate ... " />
+            <marker date="1490014627000" expanded="true" signature="2124:2189" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="2199:2486" ph="/// Converts the grid coordinate to world coordinate ... " />
+            <marker date="1490014627000" expanded="true" signature="2561:2618" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="2628:2895" ph="/// Converts an IntVector to a Vector3, with the XYZ components floored ... " />
+            <marker date="1490014627000" expanded="true" signature="2945:3062" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="3072:3313" ph="/// Rounds to an IntVector, with the XYZ components rounded to the nearest int ... " />
+            <marker date="1490014627000" expanded="true" signature="3368:3485" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="3495:3785" ph="/// Snaps the position to the nearest grid cell location ... " />
+            <marker date="1490014627000" expanded="true" signature="3861:3918" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="3928:4329" ph="/// Snaps the position to the nearest grid cell location ... " />
+            <marker date="1490014627000" expanded="true" signature="4428:4972" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="4484:4679" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="4982:5250" ph="/// Checks if the two rectangles intersect ... " />
+            <marker date="1490014627000" expanded="true" signature="5307:5734" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="5746:6048" ph="/// Test if the graph link lies within the rectangle ... " />
+            <marker date="1490014627000" expanded="true" signature="6109:6670" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="6319:6342" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="6676:6789" ph="/// Flips the coordinates for 2D mode ... " />
+            <marker date="1490014627000" expanded="true" signature="6837:6965" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="6969:7114" ph="/// Flips the coordinates for 2D mode ... " />
+            <marker date="1490014627000" expanded="true" signature="7162:7247" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="7251:7396" ph="/// Flips the coordinates for 2D mode ... " />
+            <marker date="1490014627000" expanded="true" signature="7448:7533" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="7580:7702" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="7706:7779" ph="/// Flag to indicate an invalid location ... " />
+            <marker date="1490014627000" expanded="true" signature="7923:8209" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="8014:8199" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="8290:8534" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="8387:8447" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="8616:9782" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="9453:9552" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="9661:9729" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="9870:10650" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="10709:10771" ph="{...}" />
+            <marker date="1490014627000" expanded="true" signature="10847:10924" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Grid/Editor/DungeonPaintModeGridEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="52" />
+          <folding>
+            <marker date="1490014560000" expanded="true" signature="87:259" ph="..." />
+            <marker date="1490014560000" expanded="true" signature="295:6907" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="302:397" ph="/// Custom property editor for the Paint model game object ... " />
+            <marker date="1490014560000" expanded="true" signature="515:6905" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="629:1187" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="829:888" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="1234:1407" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="1335:1397" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="1464:2280" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="1547:1645" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="1911:2276" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="1981:2033" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="2125:2271" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="2168:2265" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="2344:3536" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="2602:2695" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="2769:2822" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="2898:2991" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="3061:3114" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="3163:3299" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="3567:3731" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="3774:5088" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="4350:5021" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="4396:5016" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="4550:4757" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="4643:4750" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="4767:5010" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="4874:5003" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="5162:5343" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="5459:6037" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="5508:5658" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="5675:5776" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="5719:5771" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="6124:6899" ph="{...}" />
+            <marker date="1490014560000" expanded="true" signature="6506:6889" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0478488F-E934-4B79-85E4-18662C23194D/8a/b0cad827/HandleUtility.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/68038E69-8340-449B-8C26-5DC9F5B644DF/39/effe98ad/Camera.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="807" column="15" lean-forward="false" selection-start-line="807" selection-start-column="15" selection-end-line="807" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Dungeon/Dungeon.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="19" column="15" lean-forward="false" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+          <folding>
+            <marker date="1490014976000" expanded="false" signature="87:239" ph="..." />
+            <marker date="1490014976000" expanded="true" signature="267:9025" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="274:394" ph="/// The main dungeon behavior that manages the creation and destruction of dungeons ... " />
+            <marker date="1490014976000" expanded="true" signature="454:9021" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="607:688" ph="/// Active model used by the dungeon ... " />
+            <marker date="1490014976000" expanded="true" signature="723:856" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="732:852" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="764:822" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="866:1127" ph="/// Flag to check if the layout has been built.   ... " />
+            <marker date="1490014976000" expanded="true" signature="1156:1342" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="1165:1338" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="1210:1280" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="1503:1559" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="1569:1657" ph="/// List of themes assigned to this dungeon ... " />
+            <marker date="1490014976000" expanded="true" signature="1703:1842" ph="/// Flag to rebuild the dungeon. Set this to true if you want to rebuild it in the next update ... " />
+            <marker date="1490014976000" expanded="true" signature="1907:2023" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="1916:2019" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="1942:1995" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="2046:2077" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="2095:2100" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="2123:2492" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="2148:2199" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="2234:2305" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="2341:2401" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="2432:2488" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="2545:2891" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="2668:2854" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="2901:3003" ph="/// Builds the complete dungeon (layout and visual phase) ... " />
+            <marker date="1490014976000" expanded="true" signature="3026:3478" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="3262:3322" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="3339:3436" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="3488:3686" ph="/// Runs the theming engine over the existing layout to rebuild the game objects from the theme file.   ... " />
+            <marker date="1490014976000" expanded="true" signature="3716:4206" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="4248:4454" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="4487:4652" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="4584:4648" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="4679:4838" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="4776:4834" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="4899:5186" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="5022:5176" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="5220:5372" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="5323:5368" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="5382:5451" ph="/// Destroys the dungeon ... " />
+            <marker date="1490014976000" expanded="true" signature="5483:6203" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="5667:5872" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="5767:5858" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="5910:6017" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="5943:5970" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="6060:6097" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="6130:6170" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="6207:6303" ph="/// Requests the dungeon to be rebuilt in the next update phase ... " />
+            <marker date="1490014976000" expanded="true" signature="6335:6368" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="6387:6607" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="6455:6513" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="6540:6597" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="6623:6643" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="6664:6781" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="6705:6777" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="6791:7101" ph="/// Registers a painted cell ... " />
+            <marker date="1490014976000" expanded="true" signature="7172:7915" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="7424:7724" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="7488:7719" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="7525:7615" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="7615:7713" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="7749:7818" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="7892:7911" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="7925:8251" ph="/// Remove a previous painted cell ... " />
+            <marker date="1490014976000" expanded="true" signature="8330:8613" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="8503:8609" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="8582:8604" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="8623:8747" ph="/// Clears all overlay data ... " />
+            <marker date="1490014976000" expanded="true" signature="8811:9018" ph="{...}" />
+            <marker date="1490014976000" expanded="true" signature="8994:9014" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Dungeon/DungeonBuilder.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
           <folding>
-            <marker date="1502450990000" expanded="false" signature="6:54" ph="..." />
-            <marker date="1502450990000" expanded="true" signature="77:736" ph="{...}" />
-            <marker date="1502450990000" expanded="true" signature="126:734" ph="{...}" />
-            <marker date="1502450990000" expanded="true" signature="178:422" ph="/* private MapDatastore _mapDatastore; ... */" />
-            <marker date="1502450990000" expanded="true" signature="452:728" ph="{...}" />
-            <marker date="1502450990000" expanded="true" signature="551:621" ph="{...}" />
+            <marker date="1490014799000" expanded="false" signature="87:294" ph="..." />
+            <marker date="1490014799000" expanded="true" signature="322:17231" ph="{...}" />
+            <marker date="1490014799000" expanded="false" signature="332:501" ph="..." />
+            <marker date="1490014799000" expanded="true" signature="507:672" ph="/// Builds the layout of the dungeon and emits markers around the layout ... " />
+            <marker date="1490014799000" expanded="true" signature="750:17229" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="1169:1435" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="1195:1425" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="1480:1540" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="1592:1646" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="1684:1743" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="1753:1983" ph="/// Builds the dungeon layout ... " />
+            <marker date="1490014799000" expanded="true" signature="2066:2285" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="2323:2373" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="2651:2672" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="2682:2767" ph="/// Emit markers defined by this builder ... " />
+            <marker date="1490014799000" expanded="true" signature="2810:2835" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="2845:2967" ph="/// Emit markers defined by the user (implementation of DungeonMarkerEmitter) ... " />
+            <marker date="1490014799000" expanded="true" signature="3007:3210" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="3129:3200" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="3245:3302" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="3410:3770" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="3943:4790" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="4487:4780" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="4932:5293" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="5418:6136" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="5513:5629" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="5836:6126" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="5922:6047" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="6146:6462" ph="/// Implementations should override this so that the new logical scale and position is set based on the volume's  ... " />
+            <marker date="1490014799000" expanded="true" signature="6592:6774" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="7023:7959" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="7156:7700" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="7234:7686" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="7394:7668" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="7542:7646" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="7740:7797" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="8138:8430" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="8193:8299" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="8485:9361" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="8743:9351" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="8804:9337" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="8916:9331" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="9102:9324" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="9176:9316" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="9240:9307" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="9472:17223" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="9653:9749" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="9906:10000" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="10512:11133" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="10569:10591" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="10783:11119" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="11311:17092" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="11742:12249" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="11837:12227" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="12014:12201" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="12480:17078" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="12639:17060" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="12842:13246" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="12999:13220" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="13275:13551" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="13655:14851" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="13865:14037" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="14070:14825" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="14336:14707" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="14892:17038" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="14948:15032" ph="/* Attach this prop to the socket ... */" />
+            <marker date="1490014799000" expanded="true" signature="15148:15607" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="15287:15598" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="15652:15787" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="15841:16150" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="16195:16314" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="16522:16793" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="16848:17012" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="17138:17213" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Dungeon/DungeonModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <marker date="1490014624000" expanded="false" signature="87:177" ph="..." />
+            <marker date="1490014624000" expanded="true" signature="205:1264" ph="{...}" />
+            <marker date="1490014624000" expanded="true" signature="212:380" ph="/// Abstract dungeon model.  Create your own implementation of the model depending on your builder's needs ... " />
+            <marker date="1490014624000" expanded="true" signature="432:803" ph="{...}" />
+            <marker date="1490014624000" expanded="true" signature="456:502" ph="{...}" />
+            <marker date="1490014624000" expanded="true" signature="708:799" ph="{...}" />
+            <marker date="1490014624000" expanded="true" signature="810:898" ph="/// Tool Data represented by the grid based builder ... " />
+            <marker date="1490014624000" expanded="true" signature="969:1262" ph="{...}" />
+            <marker date="1490014624000" expanded="true" signature="1155:1256" ph="{...}" />
+            <marker date="1490014624000" expanded="true" signature="1181:1246" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DungeonMaster/DungeonMasterPaintMode.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <marker date="1510757222407" expanded="true" signature="6:133" ph="..." />
+            <marker date="1510757222407" expanded="true" signature="158:234" ph="{...}" />
+            <marker date="1510757222407" expanded="true" signature="224:232" ph="{...}" />
           </folding>
         </state>
       </provider>
