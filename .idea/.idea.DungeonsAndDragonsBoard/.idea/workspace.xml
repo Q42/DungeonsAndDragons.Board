@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44033b2f-df7f-4f88-b50f-65af344138b2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.DungeonsAndDragonsBoard/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.DungeonsAndDragonsBoard/.idea/contentModel.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.DungeonsAndDragonsBoard/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.DungeonsAndDragonsBoard/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scripts.meta" afterPath="$PROJECT_DIR$/Assets/Scripts.meta" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DungeonsAndDragonsBoard/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.DungeonsAndDragonsBoard/.idea/contentModel.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DungeonsAndDragonsBoard/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.DungeonsAndDragonsBoard/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/DungeonGeneration/Dungeon Generator.prefab" afterPath="$PROJECT_DIR$/Assets/Prefabs/DungeonGeneration/Dungeon Generator.prefab" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Gizmos/PaintGizmo.fbx" afterPath="$PROJECT_DIR$/Assets/Resources/Gizmos/PaintGizmo.fbx" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Gizmos/PaintGizmo.fbx.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Gizmos/PaintGizmo.fbx.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Builders/PaintMode/PaintModeDungeonBuilder.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Builders/PaintMode/PaintModeDungeonBuilder.cs" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Builders/PaintMode/PaintModeDungeonModel.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Builders/PaintMode/PaintModeDungeonModel.cs" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Gizmos/PaintModeGizmo.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Gizmos/PaintModeGizmo.cs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,7 +21,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.46896034">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="DungeonUtils.cs" pinned="false" current-in-tab="false">
@@ -34,40 +40,81 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="PaintModeDungeonBuilder.cs" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Builders/PaintMode/PaintModeDungeonBuilder.cs">
+          <file leaf-file-name="PaintModeGizmo.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Gizmos/PaintModeGizmo.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="816">
-                  <caret line="51" column="12" lean-forward="false" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
+                <state relative-caret-position="951">
+                  <caret line="60" column="28" lean-forward="false" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
                   <folding>
-                    <marker date="1514390371259" expanded="true" signature="6:74" ph="..." />
-                    <marker date="1514390371259" expanded="true" signature="122:1974" ph="{...}" />
-                    <marker date="1514390371259" expanded="true" signature="129:282" ph="/// A Dungeon Builder implementation that is a completely empty start for real-time painting. ... " />
-                    <marker date="1514390371259" expanded="true" signature="364:1972" ph="{...}" />
-                    <marker date="1514390371259" expanded="true" signature="657:915" ph="{...}" />
-                    <marker date="1514390371259" expanded="true" signature="946:1131" ph="{...}" />
-                    <marker date="1514390371259" expanded="true" signature="991:1083" ph="{...}" />
-                    <marker date="1514390371259" expanded="true" signature="1176:1278" ph="{...}" />
-                    <marker date="1514390371259" expanded="true" signature="1324:1463" ph="{...}" />
-                    <marker date="1514390371259" expanded="true" signature="1505:1568" ph="{...}" />
-                    <marker date="1514390371259" expanded="true" signature="1653:1864" ph="{...}" />
-                    <marker date="1514390371259" expanded="true" signature="1899:1966" ph="{...}" />
+                    <marker date="1515932629527" expanded="true" signature="6:95" ph="..." />
+                    <marker date="1515932629527" expanded="true" signature="131:4500" ph="{...}" />
+                    <marker date="1515932629527" expanded="true" signature="237:4498" ph="{...}" />
+                    <marker date="1515932629527" expanded="true" signature="690:868" ph="{...}" />
+                    <marker date="1515932629527" expanded="true" signature="899:1033" ph="{...}" />
+                    <marker date="1515932629527" expanded="true" signature="1069:1124" ph="{...}" />
+                    <marker date="1515932629527" expanded="true" signature="1159:1784" ph="{...}" />
+                    <marker date="1515932629527" expanded="true" signature="1514:1774" ph="{...}" />
+                    <marker date="1515932629527" expanded="true" signature="1618:1760" ph="{...}" />
+                    <marker date="1515932629527" expanded="true" signature="1826:1885" ph="{...}" />
+                    <marker date="1515932629527" expanded="true" signature="1926:2019" ph="{...}" />
+                    <marker date="1515932629527" expanded="true" signature="2053:2112" ph="{...}" />
+                    <marker date="1515932629527" expanded="true" signature="2187:2246" ph="{...}" />
+                    <marker date="1515932629527" expanded="true" signature="2299:2762" ph="{...}" />
+                    <marker date="1515932629527" expanded="true" signature="2810:2926" ph="{...}" />
+                    <marker date="1515932629527" expanded="true" signature="2970:3130" ph="{...}" />
+                    <marker date="1515932629527" expanded="true" signature="3181:3475" ph="{...}" />
+                    <marker date="1515932629527" expanded="true" signature="3599:3930" ph="{...}" />
+                    <marker date="1515932629527" expanded="true" signature="4013:4492" ph="{...}" />
+                    <marker date="1515932629527" expanded="true" signature="4373:4452" ph="{...}" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="PaintModeGizmo.cs" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Gizmos/PaintModeGizmo.cs">
+          <file leaf-file-name="PaintModeDungeonBuilder.cs" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Builders/PaintMode/PaintModeDungeonBuilder.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="432">
-                  <caret line="27" column="38" lean-forward="false" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+                <state relative-caret-position="395">
+                  <caret line="74" column="46" lean-forward="true" selection-start-line="74" selection-start-column="46" selection-end-line="74" selection-end-column="46" />
                   <folding>
-                    <marker date="1514390148593" expanded="true" signature="54:1146" ph="{...}" />
-                    <marker date="1514390148593" expanded="true" signature="128:1144" ph="{...}" />
-                    <marker date="1514390148593" expanded="true" signature="342:824" ph="{...}" />
-                    <marker date="1514390148593" expanded="true" signature="866:985" ph="{...}" />
-                    <marker date="1514390148593" expanded="true" signature="1019:1138" ph="{...}" />
+                    <marker date="1515937776263" expanded="true" signature="6:165" ph="..." />
+                    <marker date="1515937776263" expanded="true" signature="213:3190" ph="{...}" />
+                    <marker date="1515937776263" expanded="true" signature="220:373" ph="/// A Dungeon Builder implementation that is a completely empty start for real-time painting. ... " />
+                    <marker date="1515937776263" expanded="true" signature="455:3188" ph="{...}" />
+                    <marker date="1515937776263" expanded="true" signature="791:1110" ph="{...}" />
+                    <marker date="1515937776263" expanded="true" signature="1143:1269" ph="{...}" />
+                    <marker date="1515937776263" expanded="true" signature="1319:1375" ph="{...}" />
+                    <marker date="1515937776263" expanded="true" signature="1406:1591" ph="{...}" />
+                    <marker date="1515937776263" expanded="true" signature="1451:1543" ph="{...}" />
+                    <marker date="1515937776263" expanded="true" signature="1636:1777" ph="{...}" />
+                    <marker date="1515937776263" expanded="true" signature="1823:2053" ph="{...}" />
+                    <marker date="1515937776263" expanded="true" signature="2101:2282" ph="{...}" />
+                    <marker date="1515937776263" expanded="true" signature="2323:2653" ph="{...}" />
+                    <marker date="1515937776263" expanded="true" signature="2728:2784" ph="{...}" />
+                    <marker date="1515937776263" expanded="true" signature="2869:3080" ph="{...}" />
+                    <marker date="1515937776263" expanded="true" signature="3115:3182" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="PaintModeGizmoEditor.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Gizmos/PaintModeGizmoEditor.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2">
+                  <caret line="30" column="50" lean-forward="false" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
+                  <folding>
+                    <marker date="1515770475517" expanded="true" signature="6:37" ph="..." />
+                    <marker date="1515770475517" expanded="true" signature="73:2636" ph="{...}" />
+                    <marker date="1515770475517" expanded="true" signature="165:2634" ph="{...}" />
+                    <marker date="1515770475517" expanded="true" signature="305:580" ph="{...}" />
+                    <marker date="1515770475517" expanded="true" signature="613:804" ph="{...}" />
+                    <marker date="1515770475517" expanded="true" signature="856:1052" ph="{...}" />
+                    <marker date="1515770475517" expanded="true" signature="1094:1796" ph="{...}" />
+                    <marker date="1515770475517" expanded="true" signature="1288:1786" ph="{...}" />
+                    <marker date="1515770475517" expanded="true" signature="1858:2378" ph="{...}" />
+                    <marker date="1515770475517" expanded="true" signature="2259:2338" ph="{...}" />
+                    <marker date="1515770475517" expanded="true" signature="2446:2628" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -76,15 +123,15 @@
           <file leaf-file-name="PaintModeDungeonConfig.cs" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Builders/PaintMode/PaintModeDungeonConfig.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="32">
-                  <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+                <state relative-caret-position="256">
+                  <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
                   <folding>
-                    <marker date="1514382280832" expanded="false" signature="6:42" ph="..." />
-                    <marker date="1514382280832" expanded="true" signature="90:1847" ph="{...}" />
-                    <marker date="1514382280832" expanded="true" signature="146:1845" ph="{...}" />
-                    <marker date="1514382280832" expanded="true" signature="151:795" ph="/// This dungeon builder works on a grid based system and required modular mesh assets  ... " />
-                    <marker date="1514382280832" expanded="true" signature="1441:1528" ph="/// The extra width to apply to one side of a corridor ... " />
-                    <marker date="1514382280832" expanded="true" signature="1633:1725" ph="/// Flag to apply the padding on both sides of the corridor ... " />
+                    <marker date="1514734815515" expanded="false" signature="6:42" ph="..." />
+                    <marker date="1514734815515" expanded="true" signature="90:1847" ph="{...}" />
+                    <marker date="1514734815515" expanded="true" signature="146:1845" ph="{...}" />
+                    <marker date="1514734815515" expanded="true" signature="151:795" ph="/// This dungeon builder works on a grid based system and required modular mesh assets  ... " />
+                    <marker date="1514734815515" expanded="true" signature="1441:1528" ph="/// The extra width to apply to one side of a corridor ... " />
+                    <marker date="1514734815515" expanded="true" signature="1633:1725" ph="/// Flag to apply the padding on both sides of the corridor ... " />
                   </folding>
                 </state>
               </provider>
@@ -93,12 +140,12 @@
           <file leaf-file-name="PaintModeDungeonModel.cs" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Builders/PaintMode/PaintModeDungeonModel.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="64">
-                  <caret line="5" column="50" lean-forward="false" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+                <state relative-caret-position="304">
+                  <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
                   <folding>
-                    <marker date="1514382280827" expanded="false" signature="6:42" ph="..." />
-                    <marker date="1514382280827" expanded="true" signature="90:238" ph="{...}" />
-                    <marker date="1514382280827" expanded="true" signature="151:236" ph="{...}" />
+                    <marker date="1515937839892" expanded="true" signature="6:114" ph="..." />
+                    <marker date="1515937839892" expanded="true" signature="162:548" ph="{...}" />
+                    <marker date="1515937839892" expanded="true" signature="223:546" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -107,16 +154,16 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
-          <file leaf-file-name="GridDungeonBuilder.cs" pinned="false" current-in-tab="true">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="GridDungeonBuilder.cs" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Grid/GridDungeonBuilder.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="5664">
-                  <caret line="1381" column="13" lean-forward="false" selection-start-line="1381" selection-start-column="13" selection-end-line="1381" selection-end-column="18" />
+                <state relative-caret-position="343">
+                  <caret line="112" column="20" lean-forward="false" selection-start-line="112" selection-start-column="20" selection-end-line="112" selection-end-column="20" />
                   <folding>
                     <marker date="1490014637000" expanded="false" signature="87:227" ph="..." />
                     <marker date="1490014637000" expanded="true" signature="269:100699" ph="{...}" />
-                    <marker date="1490014637000" expanded="true" signature="282:454" ph="..." />
+                    <marker date="1490014637000" expanded="false" signature="282:454" ph="..." />
                     <marker date="1490014637000" expanded="true" signature="460:658" ph="/// Contains meta data about the cells.  This structure is used for caching cell ... " />
                     <marker date="1490014637000" expanded="true" signature="688:1139" ph="{...}" />
                     <marker date="1490014637000" expanded="true" signature="820:939" ph="{...}" />
@@ -508,43 +555,224 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="GridDungeonConfig.cs" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Grid/GridDungeonConfig.cs">
+          <file leaf-file-name="Dungeon.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Dungeon/Dungeon.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="832">
-                  <caret line="53" column="13" lean-forward="false" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+                <state relative-caret-position="352">
+                  <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
                   <folding>
-                    <marker date="1490014776000" expanded="false" signature="87:125" ph="..." />
-                    <marker date="1490014776000" expanded="true" signature="167:11012" ph="{...}" />
-                    <marker date="1490014776000" expanded="true" signature="174:261" ph="/// The dungeon configuration for the Grid builder ... " />
-                    <marker date="1490014776000" expanded="true" signature="312:11010" ph="{...}" />
-                    <marker date="1490014776000" expanded="true" signature="327:1019" ph="/// This dungeon builder works on a grid based system and required modular mesh assets  ... " />
-                    <marker date="1490014776000" expanded="true" signature="1681:1973" ph="/// Changing this number would completely change the layout of the dungeon.  ... " />
-                    <marker date="1490014776000" expanded="true" signature="2258:2523" ph="/// This is how small a cell size can be. While generation, a cell is either converted ... " />
-                    <marker date="1490014776000" expanded="true" signature="2783:3046" ph="/// This is how big a cell size can be. While generation, a cell is either  ... " />
-                    <marker date="1490014776000" expanded="true" signature="3304:3596" ph="///  If a cell size exceeds past this limit, it is converted into a room. After cells are ... " />
-                    <marker date="1490014776000" expanded="true" signature="3888:4169" ph="/// The aspect ratio of the cells (width to height ratio). Keeping this value near 0 would  ... " />
-                    <marker date="1490014776000" expanded="true" signature="4454:4553" ph="/// The extra width to apply to one side of a corridor ... " />
-                    <marker date="1490014776000" expanded="true" signature="4676:4780" ph="/// Flag to apply the padding on both sides of the corridor ... " />
-                    <marker date="1490014776000" expanded="true" signature="4924:5370" ph="/// Tweak this value to increase / reduce the height variations (and stairs) ... " />
-                    <marker date="1490014776000" expanded="true" signature="5808:6264" ph="/// The number of logical floor units the dungeon height can vary. This determines how  ... " />
-                    <marker date="1490014776000" expanded="true" signature="6702:7058" ph="/// Determines how many loops you would like to have in your dungeon. A value near 0 will create ... " />
-                    <marker date="1490014776000" expanded="true" signature="7432:8008" ph="/// The generator would add stairs to make different areas of the dungeon accessible. However, we do not want too ... " />
-                    <marker date="1490014776000" expanded="true" signature="8572:8790" ph="/// Increase this value to remove nearby duplicate doors.  This value determines how many cell we can move to rea ... " />
-                    <marker date="1490014776000" expanded="true" signature="9045:9423" ph="/// The random number generator used in the dungeon generator does not use a uniform distribution. ... " />
-                    <marker date="1490014776000" expanded="true" signature="9798:10176" ph="/// The random number generator used in the dungeon generator does not use a uniform distribution. ... " />
-                    <marker date="1490014776000" expanded="true" signature="10553:10722" ph="/// The radius within which to spawn the initial cells before they are separated. ... " />
-                    <marker date="1490014776000" expanded="true" signature="10908:10967" ph="/// __Internal ... " />
+                    <marker date="1490014976000" expanded="false" signature="87:239" ph="..." />
+                    <marker date="1490014976000" expanded="true" signature="267:9025" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="274:394" ph="/// The main dungeon behavior that manages the creation and destruction of dungeons ... " />
+                    <marker date="1490014976000" expanded="true" signature="454:9021" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="607:688" ph="/// Active model used by the dungeon ... " />
+                    <marker date="1490014976000" expanded="true" signature="723:856" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="732:852" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="764:822" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="866:1127" ph="/// Flag to check if the layout has been built.   ... " />
+                    <marker date="1490014976000" expanded="true" signature="1156:1342" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="1165:1338" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="1210:1280" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="1503:1559" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="1569:1657" ph="/// List of themes assigned to this dungeon ... " />
+                    <marker date="1490014976000" expanded="true" signature="1703:1842" ph="/// Flag to rebuild the dungeon. Set this to true if you want to rebuild it in the next update ... " />
+                    <marker date="1490014976000" expanded="true" signature="1907:2023" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="1916:2019" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="1942:1995" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="2046:2077" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="2095:2100" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="2123:2492" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="2148:2199" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="2234:2305" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="2341:2401" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="2432:2488" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="2545:2891" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="2668:2854" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="2901:3003" ph="/// Builds the complete dungeon (layout and visual phase) ... " />
+                    <marker date="1490014976000" expanded="true" signature="3026:3478" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="3262:3322" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="3339:3436" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="3488:3686" ph="/// Runs the theming engine over the existing layout to rebuild the game objects from the theme file.   ... " />
+                    <marker date="1490014976000" expanded="true" signature="3716:4206" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="4248:4454" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="4487:4652" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="4584:4648" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="4679:4838" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="4776:4834" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="4899:5186" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="5022:5176" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="5220:5372" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="5323:5368" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="5382:5451" ph="/// Destroys the dungeon ... " />
+                    <marker date="1490014976000" expanded="true" signature="5483:6203" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="5667:5872" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="5767:5858" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="5910:6017" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="5943:5970" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="6060:6097" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="6130:6170" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="6207:6303" ph="/// Requests the dungeon to be rebuilt in the next update phase ... " />
+                    <marker date="1490014976000" expanded="true" signature="6335:6368" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="6387:6607" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="6455:6513" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="6540:6597" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="6623:6643" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="6664:6781" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="6705:6777" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="6791:7101" ph="/// Registers a painted cell ... " />
+                    <marker date="1490014976000" expanded="true" signature="7172:7915" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="7424:7724" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="7488:7719" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="7525:7615" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="7615:7713" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="7749:7818" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="7892:7911" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="7925:8251" ph="/// Remove a previous painted cell ... " />
+                    <marker date="1490014976000" expanded="true" signature="8330:8613" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="8503:8609" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="8582:8604" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="8623:8747" ph="/// Clears all overlay data ... " />
+                    <marker date="1490014976000" expanded="true" signature="8811:9018" ph="{...}" />
+                    <marker date="1490014976000" expanded="true" signature="8994:9014" ph="{...}" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="GridDungeonModel.cs" pinned="false" current-in-tab="false">
+          <file leaf-file-name="DungeonPaintMode.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Dungeon/DungeonPaintMode.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="208">
+                  <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+                  <folding>
+                    <marker date="1490014367000" expanded="false" signature="87:155" ph="..." />
+                    <marker date="1490014367000" expanded="true" signature="183:1780" ph="{...}" />
+                    <marker date="1490014367000" expanded="true" signature="190:430" ph="/// Manage the editor paint mode so you can paint the layout of you dungeon. ... " />
+                    <marker date="1490014367000" expanded="true" signature="487:1778" ph="{...}" />
+                    <marker date="1490014367000" expanded="true" signature="619:737" ph="/// Gets the configuration of the dungeon ... " />
+                    <marker date="1490014367000" expanded="true" signature="780:905" ph="{...}" />
+                    <marker date="1490014367000" expanded="true" signature="812:876" ph="{...}" />
+                    <marker date="1490014367000" expanded="true" signature="915:1037" ph="/// Gets the model used by the owning dungeon ... " />
+                    <marker date="1490014367000" expanded="true" signature="1083:1213" ph="{...}" />
+                    <marker date="1490014367000" expanded="true" signature="1123:1185" ph="{...}" />
+                    <marker date="1490014367000" expanded="true" signature="1223:1345" ph="/// Gets the owning dungeon ... " />
+                    <marker date="1490014367000" expanded="true" signature="1381:1491" ph="{...}" />
+                    <marker date="1490014367000" expanded="true" signature="1416:1468" ph="{...}" />
+                    <marker date="1490014367000" expanded="true" signature="1529:1775" ph="{...}" />
+                    <marker date="1490014367000" expanded="true" signature="1655:1749" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="DungeonPaintModeGrid.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Grid/PaintTool/DungeonPaintModeGrid.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="612">
+                  <caret line="41" column="57" lean-forward="false" selection-start-line="41" selection-start-column="57" selection-end-line="41" selection-end-column="57" />
+                  <folding>
+                    <marker date="1490014521000" expanded="false" signature="87:125" ph="..." />
+                    <marker date="1490014521000" expanded="true" signature="167:2085" ph="{...}" />
+                    <marker date="1490014521000" expanded="true" signature="174:304" ph="/// Editor tooling for the grid based dungeon builder. Lets you paint with a grid based brush ... " />
+                    <marker date="1490014521000" expanded="true" signature="385:2083" ph="{...}" />
+                    <marker date="1490014521000" expanded="true" signature="400:564" ph="/// The height of the cursor in grid cooridnates. Can also be changed with the mouse wheel in the editor when act ... " />
+                    <marker date="1490014521000" expanded="true" signature="618:707" ph="/// The opacity of the overlay colored tiles ... " />
+                    <marker date="1490014521000" expanded="true" signature="755:941" ph="/// Indicates if the painting is to be done in 2D mode (for 2D dungeons) ... " />
+                    <marker date="1490014521000" expanded="true" signature="975:1073" ph="/// The size of the brush.  This would create a brush of size NxN ... " />
+                    <marker date="1490014521000" expanded="true" signature="1111:1212" ph="/// Reference to the grid model used by the grid builder ... " />
+                    <marker date="1490014521000" expanded="true" signature="1296:1500" ph="{...}" />
+                    <marker date="1490014521000" expanded="true" signature="1550:1612" ph="{...}" />
+                    <marker date="1490014521000" expanded="true" signature="1676:2077" ph="{...}" />
+                    <marker date="1490014521000" expanded="true" signature="1820:2036" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="SnapPaintTool.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Snap/PaintTool/SnapPaintTool.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="112">
+                  <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+                  <folding>
+                    <marker date="1490014388000" expanded="false" signature="6:102" ph="..." />
+                    <marker date="1490014388000" expanded="true" signature="149:229" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="DungeonPaintModeEditor.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Editor/Dungeon/DungeonPaintModeEditor.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="288">
+                  <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="27" selection-end-column="17" />
+                  <folding>
+                    <marker date="1490014245000" expanded="false" signature="87:221" ph="..." />
+                    <marker date="1490014245000" expanded="true" signature="257:1224" ph="{...}" />
+                    <marker date="1490014245000" expanded="true" signature="264:353" ph="/// Custom property editor for the paint mode object ... " />
+                    <marker date="1490014245000" expanded="true" signature="402:1222" ph="{...}" />
+                    <marker date="1490014245000" expanded="true" signature="450:1024" ph="{...}" />
+                    <marker date="1490014245000" expanded="true" signature="605:1013" ph="{...}" />
+                    <marker date="1490014245000" expanded="true" signature="720:999" ph="{...}" />
+                    <marker date="1490014245000" expanded="true" signature="1068:1142" ph="{...}" />
+                    <marker date="1490014245000" expanded="true" signature="1205:1216" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="DungeonPaintModeGridEditor.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Grid/Editor/DungeonPaintModeGridEditor.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="320">
+                  <caret line="25" column="31" lean-forward="false" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+                  <folding>
+                    <marker date="1490014560000" expanded="false" signature="87:259" ph="..." />
+                    <marker date="1490014560000" expanded="true" signature="295:6907" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="302:397" ph="/// Custom property editor for the Paint model game object ... " />
+                    <marker date="1490014560000" expanded="true" signature="515:6905" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="629:1187" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="829:888" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="1234:1407" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="1335:1397" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="1464:2280" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="1547:1645" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="1911:2276" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="1981:2033" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="2125:2271" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="2168:2265" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="2344:3536" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="2602:2695" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="2769:2822" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="2898:2991" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="3061:3114" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="3163:3299" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="3567:3731" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="3774:5088" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="4350:5021" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="4396:5016" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="4550:4757" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="4643:4750" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="4767:5010" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="4874:5003" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="5162:5343" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="5459:6037" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="5508:5658" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="5675:5776" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="5719:5771" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="6124:6899" ph="{...}" />
+                    <marker date="1490014560000" expanded="true" signature="6506:6889" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="GridDungeonModel.cs" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Grid/GridDungeonModel.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-213">
-                  <caret line="422" column="57" lean-forward="false" selection-start-line="422" selection-start-column="57" selection-end-line="422" selection-end-column="57" />
+                <state relative-caret-position="181">
+                  <caret line="420" column="2" lean-forward="false" selection-start-line="420" selection-start-column="2" selection-end-line="420" selection-end-column="2" />
                   <folding>
                     <marker date="1490015001000" expanded="false" signature="87:177" ph="..." />
                     <marker date="1490015001000" expanded="true" signature="219:17231" ph="{...}" />
@@ -679,32 +907,45 @@
       <find>SetElevationDelta</find>
       <find>cursorPosition</find>
       <find>BuildDungeon</find>
+      <find>Paint</find>
+      <find>IntVector</find>
+      <find>dungeon</find>
+      <find>AddPaintCell</find>
+      <find>Dungeon</find>
+      <find>Cells</find>
+      <find>ToolData</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Utils/DungeonUtils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Utils/MathUtils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Gizmos/PaintModeGizmoEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Editor/Dungeon/DungeonPaintModeEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Builders/PaintMode/PaintModeDungeonConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Builders/PaintMode/PaintModeDungeonModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Builders/PaintMode/PaintModeDungeonBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Editor/Dungeon/DungeonPropertyEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/6f/f707a004/GradientAlphaKey.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/a1/205d78ac/Mesh.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Snap/PaintTool/SnapPaintTool.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0478488F-E934-4B79-85E4-18662C23194D/12/cf8fe0ca/Editor.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Dungeon/Dungeon.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Grid/GridDungeonConfig.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Dungeon/DungeonModel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/6f/f707a004/GradientAlphaKey.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Gizmos/PaintModeGizmo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Grid/GridDungeonModel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Grid/GridDungeonBuilder.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/a1/205d78ac/Mesh.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Builders/PaintMode/PaintModeDungeonModel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Builders/PaintMode/PaintModeDungeonBuilder.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Builders/PaintMode/PaintModeDungeonConfig.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0478488F-E934-4B79-85E4-18662C23194D/8a/b0cad827/HandleUtility.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Dungeon/DungeonBuilder.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E4CA8F4E-90C6-4470-94E9-B3A6D6F56DA5/20/86465ad1/Mesh.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/68038E69-8340-449B-8C26-5DC9F5B644DF/39/effe98ad/Camera.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Utils/MathUtils.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Grid/PaintTool/DungeonPaintModeGrid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Grid/GridDungeonModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E4CA8F4E-90C6-4470-94E9-B3A6D6F56DA5/20/86465ad1/Mesh.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Dungeon/DungeonPaintMode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Grid/GridDungeonBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Gizmos/PaintModeGizmo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Dungeon/DungeonBuilder.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Grid/Editor/DungeonPaintModeGridEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Grid/PaintTool/DungeonPaintModeGrid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Utils/DungeonUtils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -734,10 +975,12 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Dungeon/Builders/PaintMode/PaintModeDungeonModel.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Dungeon/Builders/PaintMode/PaintModeDungeonBuilder.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Builders/PaintMode/PaintModeDungeonConfig.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Builders/PaintMode/PaintModeDungeonModel.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Gizmos/PaintModeGizmoObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Gizmos/PaintModeGizmoVisualizer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Gizmos/PaintModeGizmoEditor.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Gizmos/PaintModeGizmo.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Builders/PaintMode/PaintModeDungeonBuilder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Builders/PaintMode/PaintModeDungeonModel.cs" />
       </list>
     </option>
   </component>
@@ -748,9 +991,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="514" />
-    <option name="width" value="1916" />
-    <option name="height" value="1178" />
+    <option name="y" value="122" />
+    <option name="width" value="2787" />
+    <option name="height" value="1570" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -774,60 +1017,6 @@
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="DungeonsAndDragonsBoard (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="DungeonsAndDragonsBoard (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="DungeonsAndDragonsBoard (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="DungeonsAndDragonsBoard (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="DungeonsAndDragonsBoard (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="DungeonGeneration" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="DungeonsAndDragonsBoard (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="DungeonGeneration" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Builders" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="DungeonsAndDragonsBoard (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="DungeonGeneration" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Builders" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="PaintMode" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="DungeonsAndDragonsBoard (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="DungeonGeneration" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Gizmos" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -853,16 +1042,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Unity Debug.Attach to Unity Editor">
+  <component name="RunManager">
     <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" />
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-    </configuration>
     <configuration default="true" type="BashConfigurationType" factoryName="Bash">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="INTERPRETER_PATH" value="/bin/bash" />
@@ -928,9 +1109,20 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -943,12 +1135,14 @@
       <workItem from="1502359707554" duration="12685000" />
       <workItem from="1502450810546" duration="187000" />
       <workItem from="1510751870974" duration="4446000" />
-      <workItem from="1514380765727" duration="8060000" />
+      <workItem from="1514380765727" duration="9550000" />
+      <workItem from="1514734808934" duration="14134000" />
+      <workItem from="1515762721979" duration="7596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30058000" />
+    <option name="totallyTimeSpent" value="53278000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -971,8 +1165,10 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15228967" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15548456" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3028624" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -982,7 +1178,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963988" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -994,15 +1189,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="9" />
+      <option name="time" value="10" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Camera/CameraLocationTracker.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/MapController.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Datastore.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Datastores/MapDatastore.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/General/FaceCamera.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Models/Map.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/MapController.cs" />
@@ -1037,32 +1228,11 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Camera/CameraLocationTracker.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/FogOfWarController.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/MapController.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Dungeon/DungeonPaintMode.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="53" column="17" lean-forward="false" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Dungeon/DungeonMasterPaintMode.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Editor/Dungeon/DungeonPaintModeEditor.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="13" column="39" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Dungeon/DungeonMasterPaintModeEditor.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Editor/Dungeon/DungeonMasterPaintModeEditor.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Dungeon/Editor/DungeonMasterPaintModeEditor.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DungeonMaster/Editor/DungeonMasterPaintModeEditor.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="6" column="63" lean-forward="false" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DungeonMaster/Editor/DungeonMasterPaintModeEditor.cs" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0478488F-E934-4B79-85E4-18662C23194D/12/cf8fe0ca/Editor.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
@@ -1070,76 +1240,127 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Grid/PaintTool/DungeonPaintModeGrid.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Utils/MathUtils.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0478488F-E934-4B79-85E4-18662C23194D/8a/b0cad827/HandleUtility.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/68038E69-8340-449B-8C26-5DC9F5B644DF/39/effe98ad/Camera.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="807" column="15" lean-forward="false" selection-start-line="807" selection-start-column="15" selection-end-line="807" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DungeonMaster/DungeonMasterPaintMode.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Dungeon/Builders/PaintModeDungeonBuilder.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Dungeon/Builders/PaintMode/PaintModeDungeonModel.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Dungeon/Builders/PaintMode/PaintModeDungeonConfig.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Dungeon/Builders/PaintMode/PaintModeDungeonBuilder.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Dungeon/DungeonModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="13" lean-forward="true" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Utils/DungeonUtils.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="9" column="44" lean-forward="false" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
           <folding>
-            <marker date="1490014627000" expanded="false" signature="87:197" ph="..." />
-            <marker date="1490014627000" expanded="true" signature="231:10933" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="238:309" ph="/// Various math utility functions ... " />
-            <marker date="1490014627000" expanded="true" signature="336:10931" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="351:535" ph="/// Copies the rectangle object ... " />
-            <marker date="1490014627000" expanded="true" signature="589:688" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="698:898" ph="/// Divides two vector3 objects ... " />
-            <marker date="1490014627000" expanded="true" signature="952:1031" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="1041:1213" ph="/// Converts an IntVector to a Vector3 ... " />
-            <marker date="1490014627000" expanded="true" signature="1261:1304" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="1314:1606" ph="/// Converts the world coordinates to grid coordinates ... " />
-            <marker date="1490014627000" expanded="true" signature="1687:1750" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="1760:2047" ph="/// Converts the grid coordinate to world coordinate ... " />
-            <marker date="1490014627000" expanded="true" signature="2124:2189" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="2199:2486" ph="/// Converts the grid coordinate to world coordinate ... " />
-            <marker date="1490014627000" expanded="true" signature="2561:2618" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="2628:2895" ph="/// Converts an IntVector to a Vector3, with the XYZ components floored ... " />
-            <marker date="1490014627000" expanded="true" signature="2945:3062" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="3072:3313" ph="/// Rounds to an IntVector, with the XYZ components rounded to the nearest int ... " />
-            <marker date="1490014627000" expanded="true" signature="3368:3485" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="3495:3785" ph="/// Snaps the position to the nearest grid cell location ... " />
-            <marker date="1490014627000" expanded="true" signature="3861:3918" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="3928:4329" ph="/// Snaps the position to the nearest grid cell location ... " />
-            <marker date="1490014627000" expanded="true" signature="4428:4972" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="4484:4679" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="4982:5250" ph="/// Checks if the two rectangles intersect ... " />
-            <marker date="1490014627000" expanded="true" signature="5307:5734" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="5746:6048" ph="/// Test if the graph link lies within the rectangle ... " />
-            <marker date="1490014627000" expanded="true" signature="6109:6670" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="6319:6342" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="6676:6789" ph="/// Flips the coordinates for 2D mode ... " />
-            <marker date="1490014627000" expanded="true" signature="6837:6965" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="6969:7114" ph="/// Flips the coordinates for 2D mode ... " />
-            <marker date="1490014627000" expanded="true" signature="7162:7247" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="7251:7396" ph="/// Flips the coordinates for 2D mode ... " />
-            <marker date="1490014627000" expanded="true" signature="7448:7533" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="7580:7702" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="7706:7779" ph="/// Flag to indicate an invalid location ... " />
-            <marker date="1490014627000" expanded="true" signature="7923:8209" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="8014:8199" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="8290:8534" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="8387:8447" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="8616:9782" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="9453:9552" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="9661:9729" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="9870:10650" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="10709:10771" ph="{...}" />
-            <marker date="1490014627000" expanded="true" signature="10847:10924" ph="{...}" />
+            <marker date="1490014283000" expanded="false" signature="6:76" ph="..." />
+            <marker date="1490014283000" expanded="true" signature="105:534" ph="{...}" />
+            <marker date="1490014283000" expanded="true" signature="177:532" ph="{...}" />
+            <marker date="1490014283000" expanded="true" signature="358:502" ph="{...}" />
+            <marker date="1490014283000" expanded="true" signature="414:492" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E4CA8F4E-90C6-4470-94E9-B3A6D6F56DA5/20/86465ad1/Mesh.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1481">
+          <caret line="17" column="11" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Gizmos/PaintModeGizmoObject.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Gizmos/PaintModeGizmoVisualizer.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Snap/PaintTool/SnapPaintTool.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1490014388000" expanded="false" signature="6:102" ph="..." />
+            <marker date="1490014388000" expanded="true" signature="149:229" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Gizmos/PaintModeGizmo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="951">
+          <caret line="60" column="28" lean-forward="false" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
+          <folding>
+            <marker date="1515932629527" expanded="true" signature="6:95" ph="..." />
+            <marker date="1515932629527" expanded="true" signature="131:4500" ph="{...}" />
+            <marker date="1515932629527" expanded="true" signature="237:4498" ph="{...}" />
+            <marker date="1515932629527" expanded="true" signature="690:868" ph="{...}" />
+            <marker date="1515932629527" expanded="true" signature="899:1033" ph="{...}" />
+            <marker date="1515932629527" expanded="true" signature="1069:1124" ph="{...}" />
+            <marker date="1515932629527" expanded="true" signature="1159:1784" ph="{...}" />
+            <marker date="1515932629527" expanded="true" signature="1514:1774" ph="{...}" />
+            <marker date="1515932629527" expanded="true" signature="1618:1760" ph="{...}" />
+            <marker date="1515932629527" expanded="true" signature="1826:1885" ph="{...}" />
+            <marker date="1515932629527" expanded="true" signature="1926:2019" ph="{...}" />
+            <marker date="1515932629527" expanded="true" signature="2053:2112" ph="{...}" />
+            <marker date="1515932629527" expanded="true" signature="2187:2246" ph="{...}" />
+            <marker date="1515932629527" expanded="true" signature="2299:2762" ph="{...}" />
+            <marker date="1515932629527" expanded="true" signature="2810:2926" ph="{...}" />
+            <marker date="1515932629527" expanded="true" signature="2970:3130" ph="{...}" />
+            <marker date="1515932629527" expanded="true" signature="3181:3475" ph="{...}" />
+            <marker date="1515932629527" expanded="true" signature="3599:3930" ph="{...}" />
+            <marker date="1515932629527" expanded="true" signature="4013:4492" ph="{...}" />
+            <marker date="1515932629527" expanded="true" signature="4373:4452" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Editor/Dungeon/DungeonPaintModeEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="27" selection-end-column="17" />
+          <folding>
+            <marker date="1490014245000" expanded="false" signature="87:221" ph="..." />
+            <marker date="1490014245000" expanded="true" signature="257:1224" ph="{...}" />
+            <marker date="1490014245000" expanded="true" signature="264:353" ph="/// Custom property editor for the paint mode object ... " />
+            <marker date="1490014245000" expanded="true" signature="402:1222" ph="{...}" />
+            <marker date="1490014245000" expanded="true" signature="450:1024" ph="{...}" />
+            <marker date="1490014245000" expanded="true" signature="605:1013" ph="{...}" />
+            <marker date="1490014245000" expanded="true" signature="720:999" ph="{...}" />
+            <marker date="1490014245000" expanded="true" signature="1068:1142" ph="{...}" />
+            <marker date="1490014245000" expanded="true" signature="1205:1216" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Grid/Editor/DungeonPaintModeGridEditor.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="52" />
+        <state relative-caret-position="320">
+          <caret line="25" column="31" lean-forward="false" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
           <folding>
-            <marker date="1490014560000" expanded="true" signature="87:259" ph="..." />
+            <marker date="1490014560000" expanded="false" signature="87:259" ph="..." />
+            <marker date="1490014560000" expanded="true" signature="295:6907" ph="{...}" />
             <marker date="1490014560000" expanded="true" signature="302:397" ph="/// Custom property editor for the Paint model game object ... " />
             <marker date="1490014560000" expanded="true" signature="515:6905" ph="{...}" />
             <marker date="1490014560000" expanded="true" signature="629:1187" ph="{...}" />
@@ -1177,24 +1398,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0478488F-E934-4B79-85E4-18662C23194D/8a/b0cad827/HandleUtility.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Grid/GridDungeonConfig.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/68038E69-8340-449B-8C26-5DC9F5B644DF/39/effe98ad/Camera.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="807" column="15" lean-forward="false" selection-start-line="807" selection-start-column="15" selection-end-line="807" selection-end-column="15" />
+        <state relative-caret-position="-1278">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <marker date="1490014776000" expanded="false" signature="87:125" ph="..." />
+            <marker date="1490014776000" expanded="true" signature="167:11012" ph="{...}" />
+            <marker date="1490014776000" expanded="true" signature="174:261" ph="/// The dungeon configuration for the Grid builder ... " />
+            <marker date="1490014776000" expanded="true" signature="312:11010" ph="{...}" />
+            <marker date="1490014776000" expanded="true" signature="327:1019" ph="/// This dungeon builder works on a grid based system and required modular mesh assets  ... " />
+            <marker date="1490014776000" expanded="true" signature="1681:1973" ph="/// Changing this number would completely change the layout of the dungeon.  ... " />
+            <marker date="1490014776000" expanded="true" signature="2258:2523" ph="/// This is how small a cell size can be. While generation, a cell is either converted ... " />
+            <marker date="1490014776000" expanded="true" signature="2783:3046" ph="/// This is how big a cell size can be. While generation, a cell is either  ... " />
+            <marker date="1490014776000" expanded="true" signature="3304:3596" ph="///  If a cell size exceeds past this limit, it is converted into a room. After cells are ... " />
+            <marker date="1490014776000" expanded="true" signature="3888:4169" ph="/// The aspect ratio of the cells (width to height ratio). Keeping this value near 0 would  ... " />
+            <marker date="1490014776000" expanded="true" signature="4454:4553" ph="/// The extra width to apply to one side of a corridor ... " />
+            <marker date="1490014776000" expanded="true" signature="4676:4780" ph="/// Flag to apply the padding on both sides of the corridor ... " />
+            <marker date="1490014776000" expanded="true" signature="4924:5370" ph="/// Tweak this value to increase / reduce the height variations (and stairs) ... " />
+            <marker date="1490014776000" expanded="true" signature="5808:6264" ph="/// The number of logical floor units the dungeon height can vary. This determines how  ... " />
+            <marker date="1490014776000" expanded="true" signature="6702:7058" ph="/// Determines how many loops you would like to have in your dungeon. A value near 0 will create ... " />
+            <marker date="1490014776000" expanded="true" signature="7432:8008" ph="/// The generator would add stairs to make different areas of the dungeon accessible. However, we do not want too ... " />
+            <marker date="1490014776000" expanded="true" signature="8572:8790" ph="/// Increase this value to remove nearby duplicate doors.  This value determines how many cell we can move to rea ... " />
+            <marker date="1490014776000" expanded="true" signature="9045:9423" ph="/// The random number generator used in the dungeon generator does not use a uniform distribution. ... " />
+            <marker date="1490014776000" expanded="true" signature="9798:10176" ph="/// The random number generator used in the dungeon generator does not use a uniform distribution. ... " />
+            <marker date="1490014776000" expanded="true" signature="10553:10722" ph="/// The radius within which to spawn the initial cells before they are separated. ... " />
+            <marker date="1490014776000" expanded="true" signature="10908:10967" ph="/// __Internal ... " />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Dungeon/Dungeon.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="19" column="15" lean-forward="false" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        <state relative-caret-position="352">
+          <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
           <folding>
             <marker date="1490014976000" expanded="false" signature="87:239" ph="..." />
             <marker date="1490014976000" expanded="true" signature="267:9025" ph="{...}" />
@@ -1273,325 +1510,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Dungeon/DungeonBuilder.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Editor/Dungeon/DungeonPropertyEditor.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        <state relative-caret-position="402">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding>
-            <marker date="1490014799000" expanded="false" signature="87:294" ph="..." />
-            <marker date="1490014799000" expanded="true" signature="322:17231" ph="{...}" />
-            <marker date="1490014799000" expanded="false" signature="332:501" ph="..." />
-            <marker date="1490014799000" expanded="true" signature="507:672" ph="/// Builds the layout of the dungeon and emits markers around the layout ... " />
-            <marker date="1490014799000" expanded="true" signature="750:17229" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="1169:1435" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="1195:1425" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="1480:1540" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="1592:1646" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="1684:1743" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="1753:1983" ph="/// Builds the dungeon layout ... " />
-            <marker date="1490014799000" expanded="true" signature="2066:2285" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="2323:2373" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="2651:2672" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="2682:2767" ph="/// Emit markers defined by this builder ... " />
-            <marker date="1490014799000" expanded="true" signature="2810:2835" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="2845:2967" ph="/// Emit markers defined by the user (implementation of DungeonMarkerEmitter) ... " />
-            <marker date="1490014799000" expanded="true" signature="3007:3210" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="3129:3200" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="3245:3302" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="3410:3770" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="3943:4790" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="4487:4780" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="4932:5293" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="5418:6136" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="5513:5629" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="5836:6126" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="5922:6047" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="6146:6462" ph="/// Implementations should override this so that the new logical scale and position is set based on the volume's  ... " />
-            <marker date="1490014799000" expanded="true" signature="6592:6774" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="7023:7959" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="7156:7700" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="7234:7686" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="7394:7668" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="7542:7646" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="7740:7797" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="8138:8430" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="8193:8299" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="8485:9361" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="8743:9351" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="8804:9337" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="8916:9331" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="9102:9324" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="9176:9316" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="9240:9307" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="9472:17223" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="9653:9749" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="9906:10000" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="10512:11133" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="10569:10591" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="10783:11119" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="11311:17092" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="11742:12249" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="11837:12227" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="12014:12201" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="12480:17078" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="12639:17060" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="12842:13246" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="12999:13220" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="13275:13551" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="13655:14851" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="13865:14037" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="14070:14825" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="14336:14707" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="14892:17038" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="14948:15032" ph="/* Attach this prop to the socket ... */" />
-            <marker date="1490014799000" expanded="true" signature="15148:15607" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="15287:15598" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="15652:15787" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="15841:16150" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="16195:16314" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="16522:16793" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="16848:17012" ph="{...}" />
-            <marker date="1490014799000" expanded="true" signature="17138:17213" ph="{...}" />
+            <marker date="1490014283000" expanded="false" signature="87:144" ph="..." />
+            <marker date="1490014283000" expanded="true" signature="180:2221" ph="{...}" />
+            <marker date="1490014283000" expanded="true" signature="187:278" ph="/// Custom property editor for the dungeon game object ... " />
+            <marker date="1490014283000" expanded="true" signature="357:2219" ph="{...}" />
+            <marker date="1490014283000" expanded="true" signature="399:583" ph="{...}" />
+            <marker date="1490014283000" expanded="true" signature="478:504" ph="{...}" />
+            <marker date="1490014283000" expanded="true" signature="550:579" ph="{...}" />
+            <marker date="1490014283000" expanded="true" signature="607:1251" ph="{...}" />
+            <marker date="1490014283000" expanded="true" signature="713:1247" ph="{...}" />
+            <marker date="1490014283000" expanded="true" signature="748:980" ph="{...}" />
+            <marker date="1490014283000" expanded="true" signature="981:1242" ph="{...}" />
+            <marker date="1490014283000" expanded="true" signature="1285:1352" ph="{...}" />
+            <marker date="1490014283000" expanded="true" signature="1378:1690" ph="{...}" />
+            <marker date="1490014283000" expanded="true" signature="1452:1686" ph="{...}" />
+            <marker date="1490014283000" expanded="true" signature="1731:2215" ph="{...}" />
+            <marker date="1490014283000" expanded="true" signature="1875:2028" ph="{...}" />
+            <marker date="1490014283000" expanded="true" signature="2139:2194" ph="{...}" />
+            <marker date="1490014283000" expanded="true" signature="2164:2189" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DungeonMaster/DungeonMasterPaintMode.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Dungeon/DungeonPaintMode.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Dungeon/Builders/PaintModeDungeonBuilder.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Grid/GridDungeonModel.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-213">
-          <caret line="422" column="57" lean-forward="false" selection-start-line="422" selection-start-column="57" selection-end-line="422" selection-end-column="57" />
+        <state relative-caret-position="208">
+          <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
           <folding>
-            <marker date="1490015001000" expanded="false" signature="87:177" ph="..." />
-            <marker date="1490015001000" expanded="true" signature="219:17231" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="226:309" ph="/// The build state used to track the progress ... " />
-            <marker date="1490015001000" expanded="true" signature="348:478" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="484:566" ph="/// The type of cell used in the grid builder ... " />
-            <marker date="1490015001000" expanded="true" signature="614:699" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="705:816" ph="/// Data-structure to hold the stair information in the grid based builder ... " />
-            <marker date="1490015001000" expanded="true" signature="869:1181" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="1188:1352" ph="/// Data-structure to hold the Cell information. A cell is a piece of the dungeon layout and can be either a room ... " />
-            <marker date="1490015001000" expanded="true" signature="1393:4255" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="1421:1482" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="1539:1657" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="1721:1884" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="1747:1802" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="1818:1874" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="1986:2077" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="2178:2273" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="2283:2400" ph="/// Indicates if the cell is user defined and not procedurally generated ... " />
-            <marker date="1490015001000" expanded="true" signature="2483:2664" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="2509:2573" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="2589:2654" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="2791:2898" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="3037:3156" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="3281:3466" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="3307:3373" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="3389:3456" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="3499:3663" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="3525:3653" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="3695:3879" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="3721:3869" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="3935:4164" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="4017:4128" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="4206:4249" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="4261:4345" ph="/// Data-structure to hold the door information ... " />
-            <marker date="1490015001000" expanded="true" signature="4390:5483" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="4485:4602" ph="/// The adjacent tile positions shared by this door (entry / exit tiles) ... " />
-            <marker date="1490015001000" expanded="true" signature="4643:4745" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="4669:4735" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="4829:4922" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="4932:5029" ph="/// Cell Ids of one of the cells that owns this door ... " />
-            <marker date="1490015001000" expanded="true" signature="5131:5316" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="5157:5223" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="5239:5306" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="5360:5477" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="5489:5581" ph="/// Data-structure for IntVector pair. Used for caching ... " />
-            <marker date="1490015001000" expanded="true" signature="5632:6313" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="5801:5869" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="5925:6183" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="5988:6147" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="6225:6307" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="6319:6403" ph="/// Manages the doors in the grid based builder ... " />
-            <marker date="1490015001000" expanded="true" signature="6451:10146" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="6695:6779" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="6826:7267" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="6948:7105" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="7012:7091" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="7152:7225" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="7277:7667" ph="/// Creates a door between the two grid points ... " />
-            <marker date="1490015001000" expanded="true" signature="7756:8524" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="8534:8793" ph="/// Check if a door exists between the two cells  ... " />
-            <marker date="1490015001000" expanded="true" signature="8860:9326" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="8910:9290" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="8959:9025" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="9207:9276" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="9387:9921" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="9420:9900" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="9659:9684" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="9870:9895" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="9931:10004" ph="/// List of registered doors ... " />
-            <marker date="1490015001000" expanded="true" signature="10036:10140" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="10062:10130" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="10153:10261" ph="/// Data model for the grid based dungeon builder ... " />
-            <marker date="1490015001000" expanded="true" signature="10310:16072" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="11054:11313" ph="/// Get meta-data about the grid in x, z grid coordinate ... " />
-            <marker date="1490015001000" expanded="true" signature="11373:11602" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="11476:11547" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="11612:11700" ph="/// Builds a lookup for fast data retrieval ... " />
-            <marker date="1490015001000" expanded="true" signature="11745:12792" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="11896:12782" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="12102:12768" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="12188:12750" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="12576:12728" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="12802:12879" ph="/// The list of registered doors ... " />
-            <marker date="1490015001000" expanded="true" signature="12911:13017" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="12937:13007" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="13027:13124" ph="/// Builds the cell lookup for faster cell retrieval ... " />
-            <marker date="1490015001000" expanded="true" signature="13162:13329" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="13244:13319" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="13339:13507" ph="/// Gets the cell information ... " />
-            <marker date="1490015001000" expanded="true" signature="13543:13634" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="13644:13725" ph="/// Cell lookup based on the Cell Id ... " />
-            <marker date="1490015001000" expanded="true" signature="13814:14095" ph="/// Finds the cell based on the position in grid coordinates ... " />
-            <marker date="1490015001000" expanded="true" signature="14154:14388" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="14204:14353" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="14270:14339" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="14398:14476" ph="/// Clears the dungeon data model ... " />
-            <marker date="1490015001000" expanded="true" signature="14518:14732" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="14791:15114" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="14859:15078" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="14910:15064" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="14986:15046" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="15168:15377" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="15218:15357" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="15257:15352" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="15318:15346" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="15387:15595" ph="/// Check if a stair exists between the two cells ... " />
-            <marker date="1490015001000" expanded="true" signature="15651:15758" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="15811:16066" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="15937:16030" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="16110:17228" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="16140:16188" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="16254:17225" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="16350:17202" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="16619:17053" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="16751:16987" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="16790:16816" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="17016:17047" ph="{...}" />
-            <marker date="1490015001000" expanded="true" signature="17092:17197" ph="{...}" />
+            <marker date="1490014367000" expanded="false" signature="87:155" ph="..." />
+            <marker date="1490014367000" expanded="true" signature="183:1780" ph="{...}" />
+            <marker date="1490014367000" expanded="true" signature="190:430" ph="/// Manage the editor paint mode so you can paint the layout of you dungeon. ... " />
+            <marker date="1490014367000" expanded="true" signature="487:1778" ph="{...}" />
+            <marker date="1490014367000" expanded="true" signature="619:737" ph="/// Gets the configuration of the dungeon ... " />
+            <marker date="1490014367000" expanded="true" signature="780:905" ph="{...}" />
+            <marker date="1490014367000" expanded="true" signature="812:876" ph="{...}" />
+            <marker date="1490014367000" expanded="true" signature="915:1037" ph="/// Gets the model used by the owning dungeon ... " />
+            <marker date="1490014367000" expanded="true" signature="1083:1213" ph="{...}" />
+            <marker date="1490014367000" expanded="true" signature="1123:1185" ph="{...}" />
+            <marker date="1490014367000" expanded="true" signature="1223:1345" ph="/// Gets the owning dungeon ... " />
+            <marker date="1490014367000" expanded="true" signature="1381:1491" ph="{...}" />
+            <marker date="1490014367000" expanded="true" signature="1416:1468" ph="{...}" />
+            <marker date="1490014367000" expanded="true" signature="1529:1775" ph="{...}" />
+            <marker date="1490014367000" expanded="true" signature="1655:1749" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Dungeon/Builders/PaintMode/PaintModeDungeonModel.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Grid/PaintTool/DungeonPaintModeGrid.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Dungeon/Builders/PaintMode/PaintModeDungeonConfig.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="29" column="46" lean-forward="false" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Dungeon/Builders/PaintMode/PaintModeDungeonBuilder.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Grid/GridDungeonConfig.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="832">
-          <caret line="53" column="13" lean-forward="false" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+        <state relative-caret-position="612">
+          <caret line="41" column="57" lean-forward="false" selection-start-line="41" selection-start-column="57" selection-end-line="41" selection-end-column="57" />
           <folding>
-            <marker date="1490014776000" expanded="false" signature="87:125" ph="..." />
-            <marker date="1490014776000" expanded="true" signature="167:11012" ph="{...}" />
-            <marker date="1490014776000" expanded="true" signature="174:261" ph="/// The dungeon configuration for the Grid builder ... " />
-            <marker date="1490014776000" expanded="true" signature="312:11010" ph="{...}" />
-            <marker date="1490014776000" expanded="true" signature="327:1019" ph="/// This dungeon builder works on a grid based system and required modular mesh assets  ... " />
-            <marker date="1490014776000" expanded="true" signature="1681:1973" ph="/// Changing this number would completely change the layout of the dungeon.  ... " />
-            <marker date="1490014776000" expanded="true" signature="2258:2523" ph="/// This is how small a cell size can be. While generation, a cell is either converted ... " />
-            <marker date="1490014776000" expanded="true" signature="2783:3046" ph="/// This is how big a cell size can be. While generation, a cell is either  ... " />
-            <marker date="1490014776000" expanded="true" signature="3304:3596" ph="///  If a cell size exceeds past this limit, it is converted into a room. After cells are ... " />
-            <marker date="1490014776000" expanded="true" signature="3888:4169" ph="/// The aspect ratio of the cells (width to height ratio). Keeping this value near 0 would  ... " />
-            <marker date="1490014776000" expanded="true" signature="4454:4553" ph="/// The extra width to apply to one side of a corridor ... " />
-            <marker date="1490014776000" expanded="true" signature="4676:4780" ph="/// Flag to apply the padding on both sides of the corridor ... " />
-            <marker date="1490014776000" expanded="true" signature="4924:5370" ph="/// Tweak this value to increase / reduce the height variations (and stairs) ... " />
-            <marker date="1490014776000" expanded="true" signature="5808:6264" ph="/// The number of logical floor units the dungeon height can vary. This determines how  ... " />
-            <marker date="1490014776000" expanded="true" signature="6702:7058" ph="/// Determines how many loops you would like to have in your dungeon. A value near 0 will create ... " />
-            <marker date="1490014776000" expanded="true" signature="7432:8008" ph="/// The generator would add stairs to make different areas of the dungeon accessible. However, we do not want too ... " />
-            <marker date="1490014776000" expanded="true" signature="8572:8790" ph="/// Increase this value to remove nearby duplicate doors.  This value determines how many cell we can move to rea ... " />
-            <marker date="1490014776000" expanded="true" signature="9045:9423" ph="/// The random number generator used in the dungeon generator does not use a uniform distribution. ... " />
-            <marker date="1490014776000" expanded="true" signature="9798:10176" ph="/// The random number generator used in the dungeon generator does not use a uniform distribution. ... " />
-            <marker date="1490014776000" expanded="true" signature="10553:10722" ph="/// The radius within which to spawn the initial cells before they are separated. ... " />
-            <marker date="1490014776000" expanded="true" signature="10908:10967" ph="/// __Internal ... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Dungeon/DungeonModel.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="13" lean-forward="true" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
-          <folding>
-            <marker date="1490014624000" expanded="false" signature="87:177" ph="..." />
-            <marker date="1490014624000" expanded="true" signature="205:1264" ph="{...}" />
-            <marker date="1490014624000" expanded="true" signature="212:380" ph="/// Abstract dungeon model.  Create your own implementation of the model depending on your builder's needs ... " />
-            <marker date="1490014624000" expanded="true" signature="432:803" ph="{...}" />
-            <marker date="1490014624000" expanded="true" signature="456:502" ph="{...}" />
-            <marker date="1490014624000" expanded="true" signature="708:799" ph="{...}" />
-            <marker date="1490014624000" expanded="true" signature="810:898" ph="/// Tool Data represented by the grid based builder ... " />
-            <marker date="1490014624000" expanded="true" signature="969:1262" ph="{...}" />
-            <marker date="1490014624000" expanded="true" signature="1155:1256" ph="{...}" />
-            <marker date="1490014624000" expanded="true" signature="1181:1246" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Builders/PaintMode/PaintModeDungeonModel.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="5" column="50" lean-forward="false" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
-          <folding>
-            <marker date="1514382280827" expanded="false" signature="6:42" ph="..." />
-            <marker date="1514382280827" expanded="true" signature="90:238" ph="{...}" />
-            <marker date="1514382280827" expanded="true" signature="151:236" ph="{...}" />
+            <marker date="1490014521000" expanded="false" signature="87:125" ph="..." />
+            <marker date="1490014521000" expanded="true" signature="167:2085" ph="{...}" />
+            <marker date="1490014521000" expanded="true" signature="174:304" ph="/// Editor tooling for the grid based dungeon builder. Lets you paint with a grid based brush ... " />
+            <marker date="1490014521000" expanded="true" signature="385:2083" ph="{...}" />
+            <marker date="1490014521000" expanded="true" signature="400:564" ph="/// The height of the cursor in grid cooridnates. Can also be changed with the mouse wheel in the editor when act ... " />
+            <marker date="1490014521000" expanded="true" signature="618:707" ph="/// The opacity of the overlay colored tiles ... " />
+            <marker date="1490014521000" expanded="true" signature="755:941" ph="/// Indicates if the painting is to be done in 2D mode (for 2D dungeons) ... " />
+            <marker date="1490014521000" expanded="true" signature="975:1073" ph="/// The size of the brush.  This would create a brush of size NxN ... " />
+            <marker date="1490014521000" expanded="true" signature="1111:1212" ph="/// Reference to the grid model used by the grid builder ... " />
+            <marker date="1490014521000" expanded="true" signature="1296:1500" ph="{...}" />
+            <marker date="1490014521000" expanded="true" signature="1550:1612" ph="{...}" />
+            <marker date="1490014521000" expanded="true" signature="1676:2077" ph="{...}" />
+            <marker date="1490014521000" expanded="true" signature="1820:2036" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Grid/GridDungeonBuilder.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5664">
-          <caret line="1381" column="13" lean-forward="false" selection-start-line="1381" selection-start-column="13" selection-end-line="1381" selection-end-column="18" />
+        <state relative-caret-position="343">
+          <caret line="112" column="20" lean-forward="false" selection-start-line="112" selection-start-column="20" selection-end-line="112" selection-end-column="20" />
           <folding>
             <marker date="1490014637000" expanded="false" signature="87:227" ph="..." />
             <marker date="1490014637000" expanded="true" signature="269:100699" ph="{...}" />
-            <marker date="1490014637000" expanded="true" signature="282:454" ph="..." />
+            <marker date="1490014637000" expanded="false" signature="282:454" ph="..." />
             <marker date="1490014637000" expanded="true" signature="460:658" ph="/// Contains meta data about the cells.  This structure is used for caching cell ... " />
             <marker date="1490014637000" expanded="true" signature="688:1139" ph="{...}" />
             <marker date="1490014637000" expanded="true" signature="820:939" ph="{...}" />
@@ -1982,82 +1981,284 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Utils/DungeonUtils.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Core/Dungeon/DungeonBuilder.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="9" column="44" lean-forward="false" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        <state relative-caret-position="838">
+          <caret line="196" column="71" lean-forward="false" selection-start-line="196" selection-start-column="64" selection-end-line="196" selection-end-column="71" />
           <folding>
-            <marker date="1490014283000" expanded="false" signature="6:76" ph="..." />
-            <marker date="1490014283000" expanded="true" signature="105:534" ph="{...}" />
-            <marker date="1490014283000" expanded="true" signature="177:532" ph="{...}" />
-            <marker date="1490014283000" expanded="true" signature="358:502" ph="{...}" />
-            <marker date="1490014283000" expanded="true" signature="414:492" ph="{...}" />
+            <marker date="1490014799000" expanded="false" signature="87:294" ph="..." />
+            <marker date="1490014799000" expanded="true" signature="322:17231" ph="{...}" />
+            <marker date="1490014799000" expanded="false" signature="332:501" ph="..." />
+            <marker date="1490014799000" expanded="true" signature="507:672" ph="/// Builds the layout of the dungeon and emits markers around the layout ... " />
+            <marker date="1490014799000" expanded="true" signature="750:17229" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="1169:1435" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="1195:1425" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="1480:1540" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="1592:1646" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="1684:1743" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="1753:1983" ph="/// Builds the dungeon layout ... " />
+            <marker date="1490014799000" expanded="true" signature="2066:2285" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="2323:2373" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="2651:2672" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="2682:2767" ph="/// Emit markers defined by this builder ... " />
+            <marker date="1490014799000" expanded="true" signature="2810:2835" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="2845:2967" ph="/// Emit markers defined by the user (implementation of DungeonMarkerEmitter) ... " />
+            <marker date="1490014799000" expanded="true" signature="3007:3210" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="3129:3200" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="3245:3302" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="3410:3770" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="3943:4790" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="4487:4780" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="4932:5293" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="5418:6136" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="5513:5629" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="5836:6126" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="5922:6047" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="6146:6462" ph="/// Implementations should override this so that the new logical scale and position is set based on the volume's  ... " />
+            <marker date="1490014799000" expanded="true" signature="6592:6774" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="7023:7959" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="7156:7700" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="7234:7686" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="7394:7668" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="7542:7646" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="7740:7797" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="8138:8430" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="8193:8299" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="8485:9361" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="8743:9351" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="8804:9337" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="8916:9331" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="9102:9324" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="9176:9316" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="9240:9307" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="9472:17223" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="9653:9749" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="9906:10000" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="10512:11133" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="10569:10591" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="10783:11119" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="11311:17092" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="11742:12249" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="11837:12227" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="12014:12201" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="12480:17078" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="12639:17060" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="12842:13246" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="12999:13220" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="13275:13551" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="13655:14851" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="13865:14037" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="14070:14825" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="14336:14707" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="14892:17038" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="14948:15032" ph="/* Attach this prop to the socket ... */" />
+            <marker date="1490014799000" expanded="true" signature="15148:15607" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="15287:15598" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="15652:15787" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="15841:16150" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="16195:16314" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="16522:16793" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="16848:17012" ph="{...}" />
+            <marker date="1490014799000" expanded="true" signature="17138:17213" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E4CA8F4E-90C6-4470-94E9-B3A6D6F56DA5/20/86465ad1/Mesh.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Gizmos/PaintModeGizmoEditor.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1481">
-          <caret line="17" column="11" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Gizmos/PaintModeGizmoObject.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="68" lean-forward="true" selection-start-line="19" selection-start-column="68" selection-end-line="19" selection-end-column="68" />
-          <folding />
+        <state relative-caret-position="2">
+          <caret line="30" column="50" lean-forward="false" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
+          <folding>
+            <marker date="1515770475517" expanded="true" signature="6:37" ph="..." />
+            <marker date="1515770475517" expanded="true" signature="73:2636" ph="{...}" />
+            <marker date="1515770475517" expanded="true" signature="165:2634" ph="{...}" />
+            <marker date="1515770475517" expanded="true" signature="305:580" ph="{...}" />
+            <marker date="1515770475517" expanded="true" signature="613:804" ph="{...}" />
+            <marker date="1515770475517" expanded="true" signature="856:1052" ph="{...}" />
+            <marker date="1515770475517" expanded="true" signature="1094:1796" ph="{...}" />
+            <marker date="1515770475517" expanded="true" signature="1288:1786" ph="{...}" />
+            <marker date="1515770475517" expanded="true" signature="1858:2378" ph="{...}" />
+            <marker date="1515770475517" expanded="true" signature="2259:2338" ph="{...}" />
+            <marker date="1515770475517" expanded="true" signature="2446:2628" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Builders/PaintMode/PaintModeDungeonConfig.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        <state relative-caret-position="256">
+          <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
           <folding>
-            <marker date="1514382280832" expanded="false" signature="6:42" ph="..." />
-            <marker date="1514382280832" expanded="true" signature="90:1847" ph="{...}" />
-            <marker date="1514382280832" expanded="true" signature="146:1845" ph="{...}" />
-            <marker date="1514382280832" expanded="true" signature="151:795" ph="/// This dungeon builder works on a grid based system and required modular mesh assets  ... " />
-            <marker date="1514382280832" expanded="true" signature="1441:1528" ph="/// The extra width to apply to one side of a corridor ... " />
-            <marker date="1514382280832" expanded="true" signature="1633:1725" ph="/// Flag to apply the padding on both sides of the corridor ... " />
+            <marker date="1514734815515" expanded="false" signature="6:42" ph="..." />
+            <marker date="1514734815515" expanded="true" signature="90:1847" ph="{...}" />
+            <marker date="1514734815515" expanded="true" signature="146:1845" ph="{...}" />
+            <marker date="1514734815515" expanded="true" signature="151:795" ph="/// This dungeon builder works on a grid based system and required modular mesh assets  ... " />
+            <marker date="1514734815515" expanded="true" signature="1441:1528" ph="/// The extra width to apply to one side of a corridor ... " />
+            <marker date="1514734815515" expanded="true" signature="1633:1725" ph="/// Flag to apply the padding on both sides of the corridor ... " />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Gizmos/PaintModeGizmo.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Builders/PaintMode/PaintModeDungeonModel.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="27" column="38" lean-forward="false" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+        <state relative-caret-position="304">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
-            <marker date="1514390148593" expanded="true" signature="54:1146" ph="{...}" />
-            <marker date="1514390148593" expanded="true" signature="128:1144" ph="{...}" />
-            <marker date="1514390148593" expanded="true" signature="342:824" ph="{...}" />
-            <marker date="1514390148593" expanded="true" signature="866:985" ph="{...}" />
-            <marker date="1514390148593" expanded="true" signature="1019:1138" ph="{...}" />
+            <marker date="1515937839892" expanded="true" signature="6:114" ph="..." />
+            <marker date="1515937839892" expanded="true" signature="162:548" ph="{...}" />
+            <marker date="1515937839892" expanded="true" signature="223:546" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/DungeonArchitect/Scripts/Builders/Grid/GridDungeonModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="420" column="2" lean-forward="false" selection-start-line="420" selection-start-column="2" selection-end-line="420" selection-end-column="2" />
+          <folding>
+            <marker date="1490015001000" expanded="false" signature="87:177" ph="..." />
+            <marker date="1490015001000" expanded="true" signature="219:17231" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="226:309" ph="/// The build state used to track the progress ... " />
+            <marker date="1490015001000" expanded="true" signature="348:478" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="484:566" ph="/// The type of cell used in the grid builder ... " />
+            <marker date="1490015001000" expanded="true" signature="614:699" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="705:816" ph="/// Data-structure to hold the stair information in the grid based builder ... " />
+            <marker date="1490015001000" expanded="true" signature="869:1181" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="1188:1352" ph="/// Data-structure to hold the Cell information. A cell is a piece of the dungeon layout and can be either a room ... " />
+            <marker date="1490015001000" expanded="true" signature="1393:4255" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="1421:1482" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="1539:1657" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="1721:1884" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="1747:1802" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="1818:1874" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="1986:2077" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="2178:2273" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="2283:2400" ph="/// Indicates if the cell is user defined and not procedurally generated ... " />
+            <marker date="1490015001000" expanded="true" signature="2483:2664" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="2509:2573" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="2589:2654" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="2791:2898" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="3037:3156" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="3281:3466" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="3307:3373" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="3389:3456" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="3499:3663" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="3525:3653" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="3695:3879" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="3721:3869" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="3935:4164" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="4017:4128" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="4206:4249" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="4261:4345" ph="/// Data-structure to hold the door information ... " />
+            <marker date="1490015001000" expanded="true" signature="4390:5483" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="4485:4602" ph="/// The adjacent tile positions shared by this door (entry / exit tiles) ... " />
+            <marker date="1490015001000" expanded="true" signature="4643:4745" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="4669:4735" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="4829:4922" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="4932:5029" ph="/// Cell Ids of one of the cells that owns this door ... " />
+            <marker date="1490015001000" expanded="true" signature="5131:5316" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="5157:5223" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="5239:5306" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="5360:5477" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="5489:5581" ph="/// Data-structure for IntVector pair. Used for caching ... " />
+            <marker date="1490015001000" expanded="true" signature="5632:6313" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="5801:5869" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="5925:6183" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="5988:6147" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="6225:6307" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="6319:6403" ph="/// Manages the doors in the grid based builder ... " />
+            <marker date="1490015001000" expanded="true" signature="6451:10146" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="6695:6779" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="6826:7267" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="6948:7105" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="7012:7091" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="7152:7225" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="7277:7667" ph="/// Creates a door between the two grid points ... " />
+            <marker date="1490015001000" expanded="true" signature="7756:8524" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="8534:8793" ph="/// Check if a door exists between the two cells  ... " />
+            <marker date="1490015001000" expanded="true" signature="8860:9326" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="8910:9290" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="8959:9025" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="9207:9276" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="9387:9921" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="9420:9900" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="9659:9684" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="9870:9895" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="9931:10004" ph="/// List of registered doors ... " />
+            <marker date="1490015001000" expanded="true" signature="10036:10140" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="10062:10130" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="10153:10261" ph="/// Data model for the grid based dungeon builder ... " />
+            <marker date="1490015001000" expanded="true" signature="10310:16072" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="11054:11313" ph="/// Get meta-data about the grid in x, z grid coordinate ... " />
+            <marker date="1490015001000" expanded="true" signature="11373:11602" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="11476:11547" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="11612:11700" ph="/// Builds a lookup for fast data retrieval ... " />
+            <marker date="1490015001000" expanded="true" signature="11745:12792" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="11896:12782" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="12102:12768" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="12188:12750" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="12576:12728" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="12802:12879" ph="/// The list of registered doors ... " />
+            <marker date="1490015001000" expanded="true" signature="12911:13017" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="12937:13007" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="13027:13124" ph="/// Builds the cell lookup for faster cell retrieval ... " />
+            <marker date="1490015001000" expanded="true" signature="13162:13329" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="13244:13319" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="13339:13507" ph="/// Gets the cell information ... " />
+            <marker date="1490015001000" expanded="true" signature="13543:13634" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="13644:13725" ph="/// Cell lookup based on the Cell Id ... " />
+            <marker date="1490015001000" expanded="true" signature="13814:14095" ph="/// Finds the cell based on the position in grid coordinates ... " />
+            <marker date="1490015001000" expanded="true" signature="14154:14388" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="14204:14353" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="14270:14339" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="14398:14476" ph="/// Clears the dungeon data model ... " />
+            <marker date="1490015001000" expanded="true" signature="14518:14732" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="14791:15114" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="14859:15078" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="14910:15064" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="14986:15046" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="15168:15377" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="15218:15357" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="15257:15352" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="15318:15346" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="15387:15595" ph="/// Check if a stair exists between the two cells ... " />
+            <marker date="1490015001000" expanded="true" signature="15651:15758" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="15811:16066" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="15937:16030" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="16110:17228" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="16140:16188" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="16254:17225" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="16350:17202" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="16619:17053" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="16751:16987" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="16790:16816" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="17016:17047" ph="{...}" />
+            <marker date="1490015001000" expanded="true" signature="17092:17197" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DungeonGeneration/Builders/PaintMode/PaintModeDungeonBuilder.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="51" column="12" lean-forward="false" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
+        <state relative-caret-position="395">
+          <caret line="74" column="46" lean-forward="true" selection-start-line="74" selection-start-column="46" selection-end-line="74" selection-end-column="46" />
           <folding>
-            <marker date="1514390371259" expanded="true" signature="6:74" ph="..." />
-            <marker date="1514390371259" expanded="true" signature="122:1974" ph="{...}" />
-            <marker date="1514390371259" expanded="true" signature="129:282" ph="/// A Dungeon Builder implementation that is a completely empty start for real-time painting. ... " />
-            <marker date="1514390371259" expanded="true" signature="364:1972" ph="{...}" />
-            <marker date="1514390371259" expanded="true" signature="657:915" ph="{...}" />
-            <marker date="1514390371259" expanded="true" signature="946:1131" ph="{...}" />
-            <marker date="1514390371259" expanded="true" signature="991:1083" ph="{...}" />
-            <marker date="1514390371259" expanded="true" signature="1176:1278" ph="{...}" />
-            <marker date="1514390371259" expanded="true" signature="1324:1463" ph="{...}" />
-            <marker date="1514390371259" expanded="true" signature="1505:1568" ph="{...}" />
-            <marker date="1514390371259" expanded="true" signature="1653:1864" ph="{...}" />
-            <marker date="1514390371259" expanded="true" signature="1899:1966" ph="{...}" />
+            <marker date="1515937776263" expanded="true" signature="6:165" ph="..." />
+            <marker date="1515937776263" expanded="true" signature="213:3190" ph="{...}" />
+            <marker date="1515937776263" expanded="true" signature="220:373" ph="/// A Dungeon Builder implementation that is a completely empty start for real-time painting. ... " />
+            <marker date="1515937776263" expanded="true" signature="455:3188" ph="{...}" />
+            <marker date="1515937776263" expanded="true" signature="791:1110" ph="{...}" />
+            <marker date="1515937776263" expanded="true" signature="1143:1269" ph="{...}" />
+            <marker date="1515937776263" expanded="true" signature="1319:1375" ph="{...}" />
+            <marker date="1515937776263" expanded="true" signature="1406:1591" ph="{...}" />
+            <marker date="1515937776263" expanded="true" signature="1451:1543" ph="{...}" />
+            <marker date="1515937776263" expanded="true" signature="1636:1777" ph="{...}" />
+            <marker date="1515937776263" expanded="true" signature="1823:2053" ph="{...}" />
+            <marker date="1515937776263" expanded="true" signature="2101:2282" ph="{...}" />
+            <marker date="1515937776263" expanded="true" signature="2323:2653" ph="{...}" />
+            <marker date="1515937776263" expanded="true" signature="2728:2784" ph="{...}" />
+            <marker date="1515937776263" expanded="true" signature="2869:3080" ph="{...}" />
+            <marker date="1515937776263" expanded="true" signature="3115:3182" ph="{...}" />
           </folding>
         </state>
       </provider>

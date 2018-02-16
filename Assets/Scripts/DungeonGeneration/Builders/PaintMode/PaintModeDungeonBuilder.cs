@@ -1,5 +1,8 @@
-﻿using DungeonArchitect;
+﻿using System.Collections.Generic;
+using DungeonArchitect;
+using DungeonArchitect.Builders.Grid;
 using DungeonGeneration.Gizmos;
+using UnityEditor;
 using UnityEngine;
 
 namespace DungeonGeneration.Builders.PaintMode
@@ -14,6 +17,8 @@ namespace DungeonGeneration.Builders.PaintMode
         private PaintModeDungeonModel _paintModel;
         private PaintModeDungeonConfig _paintConfig;
         private PaintModeGizmo _paintGizmo;
+        
+        private Dungeon _dungeon;
 
         [Header("Paint mode")]
         [Tooltip("Enable paint mode")]
@@ -26,6 +31,20 @@ namespace DungeonGeneration.Builders.PaintMode
 
             config = GetComponent<PaintModeDungeonConfig>();
             _paintConfig = (PaintModeDungeonConfig) config;
+            
+            _dungeon = GetComponent<Dungeon>();
+        }
+
+        private void OnEnable()
+        {
+            EditorApplication.playModeStateChanged += ManageStateChange;
+
+            PopulateToolData();
+        }
+        
+        private void OnApplicationQuit()
+        {
+            DestroyPaintingGizmo();
         }
 
         private void Update()
@@ -41,6 +60,8 @@ namespace DungeonGeneration.Builders.PaintMode
 
         private void DestroyPaintingGizmo()
         {
+            PaintModeEnabled = false;
+
             if (!_paintGizmo) return;
 
             DestroyImmediate(_paintGizmo);
@@ -51,11 +72,30 @@ namespace DungeonGeneration.Builders.PaintMode
             if (_paintGizmo) return;
             
             _paintGizmo = gameObject.AddComponent<PaintModeGizmo>();
+            _paintGizmo.Config = _paintConfig;
+            _paintGizmo.OnPaint += OnPaint;
         }
 
-        private void OnApplicationQuit()
+        private void OnPaint(Vector3 position)
         {
-            DestroyImmediate(_paintGizmo);
+            _dungeon.AddPaintCell(new IntVector(
+                (int) position.x, 
+                (int) position.y, 
+                (int) position.z), true);
+        }
+
+        private void PopulateToolData()
+        {
+            if (_paintModel.ToolData != null) return;
+            
+            Undo.RecordObjects(new Object[] {_paintModel}, "Enter Tool Mode");
+            _paintModel.ToolData = _paintModel.CreateToolDataInstance();
+            Undo.RecordObjects(new Object[] { _paintModel.ToolData }, "Create Tool Data");
+        }
+        
+        private void ManageStateChange(PlayModeStateChange state)
+        {
+            DestroyPaintingGizmo();
         }
 
         public override void BuildDungeon(DungeonConfig config, DungeonModel model)
